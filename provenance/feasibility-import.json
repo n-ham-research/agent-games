@@ -1,0 +1,21 @@
+{
+  "imported": "2026-10-16",
+  "notes": "Exact frozen copies; original local proposal preserved. Its defer-repository recommendation is superseded by explicit Phase 10 authorization, not erased.",
+  "files": [
+    {
+      "source": "/home/nick/Repositories/n-ham-research/research-proposals/agent-games/feasibility.md",
+      "destination": "research/origins/feasibility/feasibility.md",
+      "sha256": "9ea53f8d1cffffa39026a0b7ec64aa21ac2d9bed661c8aaa9260a2303c0a197a"
+    },
+    {
+      "source": "/home/nick/Repositories/n-ham-research/research-proposals/agent-games/toy_models.py",
+      "destination": "research/origins/feasibility/toy_models.py",
+      "sha256": "5c590764fc486192edfac9c88968e8d744e41f72c1906124eb1f3bf2e5dd176d"
+    },
+    {
+      "source": "/home/nick/Repositories/n-ham-research/research-proposals/agent-games/README.md",
+      "destination": "research/origins/feasibility/README.md",
+      "sha256": "0630e427e6b22a5f5768e36933f18991c077cd8a3d49878f3009de55d822be54"
+    }
+  ]
+}
