@@ -92,3 +92,20 @@ in phase12-assessment.md and exact tests. No originality clearance.
 Broader Agent Games and foundational fairness maps are in phase13-research-map.md.
 The fairness map is a read-only cross-project recommendation, not new canonical
 fairness development. No new manuscript theorems promoted in this phase.
+
+## Phase 14
+
+| ID | Result / proof | Classification and bounds |
+|---|---|---|
+| P14-A | Protected CE payoff/success normal form, at most(m+1)2^k columns; phase14-continuations.md | Complete reviewed candidate; full projected region, not full utility vector; conditional-margin bound on removed costs |
+| P14-A-alg | Exact projected-region membership/linear optimization in 2^{O(k)}poly(n,m,L) | FPT(k) from explicitly listed minimal winners, rational LP invoked; no succinct-oracle enumeration claim |
+| P14-B | Cost-blind endpoint IC and sharp all-type payoff envelope including positive margins | Complete reviewed task-class result; no-pair-repairer attaining class, type-blind law, no truthful elicitation implied |
+| P14-Q | Constant-regret/global orbit-diameter deterministic and zero-error exponential pure-query lower bounds | Complete reviewed oracle refinement, q2/player transitive; Monte Carlo polynomial, no new explicit-circuit hardness |
+| P14-I1 | All-action joint-label stochastic quotient preserves contextual laws and all deviations | Reviewed established-method adaptation; retained utilities and joint initialization essential |
+| P14-I2 | Independent private-memory seed realization transport under perfect recall | Kuhn-style finite adaptation, not bounded-memory/computational preservation |
+| P14-I3 | Row-TV errors give outcome-TV sumdelta and regret error2R sumdelta | Standard reviewed coupling corollary; reward range and all-deviation uniformity explicit |
+
+Cavaliere2000 primary working body found; final2001 remains uninspected.
+Version-specific comparisons and source anomalies: phase14-literature.md.
+All novelty provisional; manuscript unchanged. See AG-P14-REVIEW.md for actual
+repairs, finite check limits and independent proof reconstruction.

@@ -49,3 +49,19 @@ sampling are prior territory. Cavaliere2001 full text and exact q2 overlap remai
 publication checks. P13-H/Qapprox/R are explicitly standard-method/direct
 corollaries. No candidate is originality-cleared. The broad strategy permits
 abandoning any branch when its structural increment is not significant.
+
+## Phase 14
+
+Strongest positive candidate: exact protected payoff-region representation and
+FPT algorithm from a minimal-winning hypergraph. CE LPs and thinning are prior;
+protected-projection preservation is the increment to scrutinize. Cost-blind
+payoff envelope and q2 ordinary-accuracy oracle restrictions are secondary
+candidates. Generic query adversaries, probabilistic bisimulation, Kuhn
+realization and coupling bounds are established and explicitly credited.
+
+Root located Cavaliere's February2000 primary working paper, with final2001
+version still missing. Relevant rendered model/proposition pages inspected;
+several working-text claims require qualification, so they are not treated
+as valid general lemmas or as evidence of novelty. Current generic CE-payoff
+geometry literature also inspected. Source/version details in phase14-literature.md.
+No result is novelty-cleared or ready for submission merely after internal review.

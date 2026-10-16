@@ -47,3 +47,14 @@ are credible private continuation payoffs and the precision-sensitive two-orbit
 boundary, not another audit formula. Test contextual agent substitution as an
 independent alternative. See phase13-research-map.md and phase13-handover.md.
 Do not let the current manuscript or last theorem determine every next task.
+
+## Phase 14 — three serious competing investigations
+
+Protected continuation regions now give a structural FPT(k) hypergraph result;
+restricted-information payoff bounds and robust margins go beyond zero-face
+examples. The symmetry branch finds a constant-accuracy oracle/zero-error
+boundary, with circuit-input limits explicit. Contextual interchangeability
+has a formal stochastic observation/deviation model and preservation theorem,
+but mature bisimulation/realization prior prevents a broad originality claim.
+Ranked contributions and open alternatives are in phase14-assessment.md.
+Continue open exploration; no manuscript expansion or companion changes.

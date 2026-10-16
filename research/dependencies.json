@@ -152,6 +152,50 @@
     [
       "P13-P2",
       "P13-R-boundary"
+    ],
+    [
+      "P13-P1",
+      "P14-A"
+    ],
+    [
+      "P14-A",
+      "P14-A-alg"
+    ],
+    [
+      "Literature:rational-LP",
+      "P14-A-alg"
+    ],
+    [
+      "P13-P2",
+      "P14-B-context"
+    ],
+    [
+      "Literature:robust-CE-endpoint-IC",
+      "P14-B"
+    ],
+    [
+      "P13-Q",
+      "P14-Q-family"
+    ],
+    [
+      "Literature:Hart-Nisan-query-adversaries",
+      "P14-Q"
+    ],
+    [
+      "Literature:probabilistic-bisimulation",
+      "P14-I1"
+    ],
+    [
+      "Literature:strategy-restricted-NE-preservation",
+      "P14-I1"
+    ],
+    [
+      "Literature:perfect-recall-realization",
+      "P14-I2"
+    ],
+    [
+      "Literature:finite-coupling-TV",
+      "P14-I3"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

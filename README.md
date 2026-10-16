@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 14 handover](research/phase14-handover.md), [ranked assessment and map](research/phase14-assessment.md), and [source audit](research/phase14-literature.md).
+- [Protected payoff regions](research/phase14-continuations.md), [constant-accuracy oracle boundary](research/phase14-complexity.md), and [contextual interchangeability](research/phase14-interchangeability.md).
+
 - [Phase 13 handover](research/phase13-handover.md) and [broad research map](research/phase13-research-map.md).
 - [Coalition continuation results](research/phase13-coalitions.md), [computation and precision boundaries](research/phase13-computation.md), and [independent verification audit](research/phase13-verification-audit.md).
 

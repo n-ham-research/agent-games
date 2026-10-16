@@ -19,3 +19,9 @@ Phase13, 16 October2026: separate final V12-C audit plus reciprocal/new-candidat
 attacks, closer Li2017 primary-source discovery,82 exact tests, and broad
 research-map revision. Details in AG-P13-REVIEW.md; no manuscript promotion or
 external peer review. Finite enumeration limits are explicit.
+
+Phase14, 16 October2026: three branches, reciprocal proof reconstructions and
+root review, two contextual-certificate assumption repairs, actual primary
+Cavaliere working-body access and version-qualified comparison.111 exact tests;
+finite coverage limits in AG-P14-REVIEW.md. Manuscript unchanged, novelty
+provisional, no external review or submission.

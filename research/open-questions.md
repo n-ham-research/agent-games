@@ -41,3 +41,9 @@ in phase13-research-map.md. Open gaps include positive/robust CE punishment,
 partially disclosed private-cost continuations, strategy-compatible finite-state
 agent substitution, and symmetry/accuracy/sample-resource tradeoffs. Foundational
 fairness questions are recommended there with canonical ownership preserved.
+
+Phase14 priorities: compact winner representations for protected-payoff regions;
+partially disclosed-information/margin frontiers; bounded-memory/resource-
+preserving contextual transports. Fine circuit versus ordinary oracle accuracy
+remains distinguished. Read-only foundational fairness agenda is preserved,
+without equating contextual strategic preservation with assignment fairness.
