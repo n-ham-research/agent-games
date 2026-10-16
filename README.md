@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 12 handover](research/phase12-handover.md), [contribution assessment](research/phase12-assessment.md), and [actual review](reviews/AG-P12-REVIEW.md).
+- [Constant-orbit lower bounds](research/phase12-compact.md), [selective-audit characterization](research/phase12-verification.md), and [real-algebraic source audit](research/phase12-source-audit.md).
+
 - [Phase 11 handover](research/phase11-handover.md) and [five ranked research questions](research/phase11-priorities.md).
 - [Local-factor orbit algorithms](research/phase11-orbit-algorithms.md), [private-cost mechanisms](research/phase11-volunteer-mechanisms.md), and [priced verification/representation boundaries](research/phase11-information-resources.md).
 - [Phase 11 source comparisons](research/phase11-literature.md).

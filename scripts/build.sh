@@ -7,7 +7,8 @@ latexmk -pdf -bibtex -interaction=nonstopmode -halt-on-error -file-line-error -o
 python3 - <<'CHECK'
 from pathlib import Path
 import re
-log = Path('build/main.log').read_text()
+# pdfTeX may write raw 8-bit font bytes; diagnostics below are ASCII.
+log = Path('build/main.log').read_text(encoding='utf-8', errors='replace')
 if re.search(r'undefined references|Citation .* undefined|Reference .* undefined|There were undefined|Rerun to get cross-references right', log):
     raise SystemExit('Unresolved manuscript references.')
 CHECK
