@@ -71,3 +71,15 @@ budgets, with exact prior factorization and sharp restricted storage bounds.
 See phase15-assessment.md for the refreshed eight-theme map and ranked next
 questions. Connectivity/treewidth, learning and foundational fairness remain
 independent open routes; no companion changes or manuscript expansion.
+
+
+## Phase 16 — serious audit and a natural network class
+
+Common-cost robust payoff hardness survives independent attacks. Read-once
+sensitivity lifting gives a linear full-region LP and series-parallel connectivity
+class, contrasted with binary-capacitated parallel-edge hardness. Safe deterministic
+disclosure has strong exact hardness and a randomized transport separation.
+Sequential substitution now has a complete restricted observer/certificate,
+but mature source overlap limits originality. Plan a focused contribution-game
+paper only after exact novelty gates; no new manuscript or companion changes.
+The broad map and ten next-delivery items are in phase16-assessment/handover.

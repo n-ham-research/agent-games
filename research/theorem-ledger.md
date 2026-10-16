@@ -127,3 +127,19 @@ repairs, finite check limits and independent proof reconstruction.
 
 Novelty provisional. Information results and actual reciprocal review are recorded
 in phase15-information.md and AG-P15-REVIEW.md. Manuscript unchanged.
+
+
+## Phase 16
+
+| ID | Result / proof | Status and limits |
+|---|---|---|
+| P16-H1/H2 | Independently reconstructed P15-S4; homogeneous cost1/2 and fixed conditional margin delta: optYES=delta versus optNO>=delta+1/2; phase16-hardness-audit.md | Complete candidate restricted transfer from classical weighted relevance, NP certificates and exact output conventions; not new generic CE hardness |
+| P16-T1/T2 | O(n)-size full CE payoff/success LP for read-once monotone tasks and supplied series-parallel edge-connectivity; phase16-tractability.md | Complete reviewed task-class sensitivity lift; junction-tree/compact-CE methods prior, arbitrary costs/margins, central sparse recovery |
+| P16-T3 | Binary-capacitated threshold flow payoff-hard even two vertices/parallel edges | Direct threshold hardness corollary; small graph width insufficient, not new reduction method |
+| P16-D1 | Strong NP-completeness deterministic safe guessing for fixed two-volunteer law at margin1/10; phase16-disclosure.md | Complete reviewed 3-PARTITION embedding, exact safety; no constant approximation-gap claim |
+| P16-D2/D3 | Scalar tight safe disclosure transport; randomized3/4 vs deterministic<=1/4; private refinement cannot repair unsafe fixed law | Perfect-privacy/transport and conditional-expectation applications, not new general information order |
+| P16-R1/R2 | Complete support observer and bounded-adapter certificate under observation refinement; phase16-substitution.md | Established observer/bounded-synthesis specialization; forward dK modes/reverse L deviations, all support paths |
+| P16-R3 | O(n)-state-per-layer sequential binary-output task needs2^n sparse controller modes for exact preservation | Classical INDEX specialization with charged storage/query architecture; n bits, not exponential bits |
+
+No manuscript promotion or originality clearance. Actual separate-instance attacks
+and exact-source comparisons are in AG-P16-REVIEW.md and branch notes.

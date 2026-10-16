@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 16 handover](research/phase16-handover.md) and [contribution ranking/map](research/phase16-assessment.md).
+- [Independent hardness audit](research/phase16-hardness-audit.md), [read-once/network tractability](research/phase16-tractability.md), [safe disclosure](research/phase16-disclosure.md), and [sequential substitution](research/phase16-substitution.md).
+
 - [Phase 15 handover](research/phase15-handover.md), [ranking and broad map](research/phase15-assessment.md), and [targeted prior comparison](research/phase15-literature.md).
 - [Succinct task algorithms and payoff hardness](research/phase15-succinct.md), [coverage formulation](research/phase15-coverage.md), [information and disclosure](research/phase15-information.md), and [resource substitution](research/phase15-resources.md).
 

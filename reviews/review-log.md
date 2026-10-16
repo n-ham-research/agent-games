@@ -33,3 +33,12 @@ explicit primary-prior narrowing of positive DP/factorization methods.139 exact
 tests pass in working tree and clean copy, including all prior111; frozen checks
 and11-page build pass. Actual scope/repairs in AG-P15-REVIEW.md and handover.
 No manuscript promotion, companion changes, external review or submission.
+
+
+Phase16,16October2026: fresh utility-table audit and separate proof attacks,
+homogeneous positive-margin hardness, read-once sensitivity/network LP,
+deterministic/fractional disclosure boundary, sequential budget certificates.
+Primary comparisons explicitly narrow originality to restricted statements;
+observer/DP/privacy methods prior.166 exact tests and all frozen/build checks
+pass in working tree and clean copy. Actual reconstruction/provenance in
+AG-P16-REVIEW.md. No manuscript/companion edits or external verification.

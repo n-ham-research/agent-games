@@ -83,3 +83,21 @@ Cohen–Rothblum1993 Theorem3.2. Adapter composition and one-cut coding are know
 methods; the resource contract is useful but not yet a standalone original
 paper. Actual source/version limits: phase15-literature.md and branch notes.
 No novelty clearance or manuscript promotion.
+
+
+## Phase 16
+
+P15-S4 passes fresh utility-table reconstruction; common-cost and positive-margin
+strengthenings remove meaningful model restrictions. Its combinatorial core is
+classical weighted dummy recognition and its CE transfer is short. Do not sell
+it as new generic equilibrium-optimization hardness. Read-once full-region
+sensitivity lifting identifies a useful class, but read-once coalitional/network
+representations and junction-tree exactness are specifically prior. Strongest
+prospect is a package with P14-A, still requiring exact protected-thinning and
+individual-worst-CE overlap review before new manuscript work.
+
+Deterministic safe-disclosure hardness at fixed positive margin is a competing
+restricted candidate; scalar transportation is explicitly perfect-privacy prior.
+Sequential resource observers/synthesis/INDEX are established specializations;
+no separate original-mathematics paper warranted yet. See phase16-assessment.md
+for stopping rules and significance rather than another broad novelty claim.

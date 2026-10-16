@@ -62,3 +62,13 @@ without equating contextual strategic preservation with assignment fairness.
    adapter composition/nonnegative factorization/one-cut storage coding.
 5. Keep learning/selection and independently calibrated opportunity fairness
    competitive; payoff-region feasibility alone establishes neither.
+
+
+## Phase 16 decisions
+
+The prioritized questions are exact protected-thinning originality, controlled
+repeated-worker deviation encodings, safe disclosure beyond one scalar tight row,
+and resource-approximation synthesis beyond known exact observers. Keep calibrated
+assignment, decentralized selection and learning competitive; no general fairness,
+convergence or communication-free implementation follows from the LP results.
+See phase16-handover.md §10 for the concrete formulations and stopping rules.

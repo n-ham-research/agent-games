@@ -244,6 +244,54 @@
     [
       "Literature:Bayes-odds-likelihood-ratios",
       "P15-I3"
+    ],
+    [
+      "Literature:weighted-voting-dummy-hardness",
+      "P16-H1"
+    ],
+    [
+      "P16-H1",
+      "P16-H2"
+    ],
+    [
+      "Literature:tree-marginal-exactness",
+      "P16-T1"
+    ],
+    [
+      "Literature:read-once-MCnets-SPconnectivity",
+      "P16-T2"
+    ],
+    [
+      "P16-T1",
+      "P16-T2"
+    ],
+    [
+      "P16-H2",
+      "P16-T3"
+    ],
+    [
+      "Literature:strong-3PARTITION",
+      "P16-D1"
+    ],
+    [
+      "Literature:perfect-privacy-rank-columns",
+      "P16-D2"
+    ],
+    [
+      "P15-I1",
+      "P16-D3"
+    ],
+    [
+      "Literature:subset-observer",
+      "P16-R1"
+    ],
+    [
+      "Literature:bounded-synthesis",
+      "P16-R2"
+    ],
+    [
+      "Literature:INDEX-storage",
+      "P16-R3"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

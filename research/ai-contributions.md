@@ -88,3 +88,21 @@ factorization result was narrowed explicitly to exact prior after primary
 Theorem3.2 was located. Same-family internal reviews are not external review,
 author approval or novelty clearance. No companion/manuscript edits, empirical
 LLM work, external contact, authorship change or submission.
+
+
+## Phase 16,16 October2026
+
+Root Codex read the review/instructions, developed the read-once sensitivity and
+exact tree-marginal formulation with sparse reconstruction, derived the network
+consequence/encoding counterexamples and fixed-law private-refinement observation,
+inspected close primary passages and integrated records/validation. Reused separate
+p12_compact independently rederived the prior reduction with fresh helpers,
+strengthened homogeneous positive-margin hardness and reviewed tractability/
+disclosure. p12_verification developed deterministic/fractional safe disclosure
+and primary privacy comparisons, then reviewed substitution. p5_splitting developed
+sequential observer/bounded-adapter/INDEX specifications and independently attacked
+hardness, disclosure and root tractability. Actual prior overlap narrowed novelty
+throughout. Same-family review is not external verification or author sign-off;
+computation author also worked on the prior phase, disclosed in the audit.
+No manuscript/companion edits, empirical LLM study, contact, submission or author
+change. Root standardized one test import after the independent discovery run.
