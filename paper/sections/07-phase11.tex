@@ -1,0 +1,221 @@
+\section{Guaranteed success does not elicit private costs}
+Consider $n$ agents with independent positive finite-support private costs
+$C_i<B$. An active set $S$ succeeds exactly when $S\in\mathcal F$, where
+$\mathcal F$ is a known nonempty upward-closed family and
+$\varnothing\notin\mathcal F$. Success gives every agent benefit $B$;
+agent $i$ pays $C_i$ iff active. There are no transfers, verification or
+type-dependent action restrictions. A finite communication protocol may use
+public and private randomization independent of costs. We consider an equilibrium
+of the whole reporting, communication and action game, not obedience to a
+mediator who already knows the costs.
+
+\begin{proposition}[Guaranteed-success frontier]
+Among such equilibria succeeding surely at every supported type profile,
+maximum expected welfare is
+\[
+ nB-\min_{S\in\mathcal F}\sum_{i\in S}\mathbb E C_i.
+\]
+First-best welfare is attainable exactly when some fixed $S\in\mathcal F$
+is realized-cost-minimizing almost surely.
+\end{proposition}
+\begin{proof}
+Let $x_i(c)$ be agent $i$'s interim probability of activity. A type $c$ can
+mimic another type $c'$'s entire randomized communication and action strategy.
+Independence makes the opponents' type law the same, and guaranteed success
+makes this deviation's success benefit $B$. Hence
+$B-cx_i(c)\ge B-cx_i(c')$. Since $c>0$, interchanging types gives
+$x_i(c)=x_i(c')=:x_i$. Thus expected cost is
+$\sum_i\mathbb E[C_i]x_i$. The unconditional active-set law is supported on
+$\mathcal F$, so this sum is at least the minimum displayed coalition cost.
+Choose a coalition attaining that minimum. Positive means imply it is
+inclusion-minimal: its members are pivotal, prefer $B-C_i>0$ to failure,
+and outsiders prefer abstention. This designated-coalition equilibrium attains
+the bound. Finally the minimum of expected coalition costs equals the expected
+minimum realized cost iff a fixed minimizing coalition attains that realized
+minimum almost surely, since their nonnegative difference must vanish.
+\end{proof}
+
+This is a finite-protocol specialization of established screening reasoning,
+not a new general incentive principle. Battaglini--Palfrey's honest-and-obedient
+constraints already include joint report/action deviations\citep{battaglini2024}.
+The statement covers threshold and coverage tasks but requires independence,
+guaranteed success and the stated common-benefit utility. It is weak
+implementation of one equilibrium, not uniqueness or full implementation.
+
+For a calibration, let $n=2$, $C_i\in\{l,h\}$ independently, with low
+probability $p$, $0<l<h<B$, $a=1-p$ and $\bar c=pl+ah$.
+The unconstrained team optimum over labelled local type policies and
+type-independent public randomness is
+\[
+ W_{\rm PL}=\max\{2B-\bar c,\;2B(2p-p^2)-2pl\}.
+\]
+Indeed a multilinear objective attains its maximum at deterministic local
+policies. Conditional on the other's policy, activity is worthwhile at cost
+$c$ iff $c\le B\Pr(\text{other inactive})$; thus the high-only rule is
+unnecessary, and checking the remaining vertices gives the formula.
+An externally informed obedient mediator attains
+$W_*=2B-l(2p-p^2)-ha^2$, with gap
+\[
+ W_*-W_{\rm PL}
+ =\min\{pa(h-l),\;(2B-h)a^2+lp^2\}>0.
+\]
+Equality occurs only at $p\in\{0,1\}$ or $h=l$ in this closed parameter
+domain. Neither this team bound nor the externally informed mediator is a
+truthful cheap-talk implementation. With transfers conditional on verified
+completion, second-price procurement admits an ex-post honest-and-obedient
+equilibrium; arbitrary disobedient opponents prevent the stronger claim of
+dominant strategies in the full voluntary-action game.
+
+\section{Pricing trusted verification}
+Now restrict the architecture: the coordinator receives no private reports or
+other type-dependent signals, and can query an external truthful verifier for
+one previously uninspected actual cost per unit. Histories, stopping and
+selection depend only on those answers and independent randomness. After
+inspection it designates one worker, who obeys since $B>C_i$.
+For arbitrary $n\ge2$ iid binary costs as above, put
+\[
+ W_0=nB-\bar c,\quad v=pa(h-l),\quad
+ R_*=\sum_{j=0}^{n-2}a^j=\frac{1-a^{n-1}}p.
+\]
+\begin{proposition}[Exact expected-query frontier]
+For expected query budget $r\ge0$, maximum gross welfare is
+$W(r)=W_0+v\min\{r,R_*\}$.
+With a hard cap $m\le n-1$, it is $nB-l-(h-l)a^{m+1}$.
+Zero-error first best requires worst-case $n-1$ queries and minimum expected
+count $R_*$.
+\end{proposition}
+\begin{proof}
+Before finding a low cost, with at least two uninspected agents, the best
+fallback has expected cost $\bar c$. A query finds low with probability $p$
+and reduces cost to $l$; otherwise an uninspected fallback remains. Each such
+useful query has conditional gain $p(\bar c-l)=v$. After finding low, or with
+only one uninspected agent, queries have zero value. If $U$ counts useful
+queries, conditional expectation gives gain at most $v\mathbb E U$.
+The $j$th useful query occurs with probability at most $a^{j-1}$, so
+$\mathbb E U\le\min\{r,R_*\}$. Search until the first low or $n-1$ highs,
+then select the low or uninspected fallback. This attains first best with
+expected count $R_*$. Mixing this whole policy with no search attains every
+intermediate expected-budget point. Capping search at $m$ gives expected
+count $\sum_{j=0}^{m-1}a^j$ and the stated value. Finally, after fewer than
+$n-1$ high observations, stopping can select a high while an uninspected low
+exists with positive probability. Zero-error selection must continue on all
+such histories, proving both lower bounds.
+\end{proof}
+A uniform random inspection order gives an equivariant law with unchanged
+query count; full search selects uniformly among cheapest agents.
+For per-query price $\kappa\ge0$, net optimum is
+$W_0+\max\{0,v-\kappa\}R_*$. Query addresses, role labels and recommendation
+bits are outside this resource count. This is a special nonobligatory-inspection
+problem\citep{beyhaghi2022}, not a general minimum-communication theorem.
+
+\section{Action-orbit algorithms and the input boundary}
+Consider complete-information rational games with explicitly listed actions
+and payoffs $u_i(s)=\sum_{F\in\mathcal F_i}f_{iF}(s_F)$, where $i\in F$,
+$|F|\le d$ and each factor table is explicit. Let $L$ include all table,
+scope, coefficient and supplied typed-group generator encodings. Exact
+automorphism validity is a promise; its discovery is not free.
+Let $q$ count group orbits of the disjoint player-action pairs $(i,a)$.
+An invariant independent profile assigns probability $x_w$ to each action in
+orbit $w$, with normalizations $\sum_w c_{iw}x_w=1$.
+
+\begin{proposition}[Local-factor orbit reduction]
+Conditional payoff polynomials $P_w(x)$ of degree at most $d-1$ can be built
+in polynomial time in $L$. Invariant Nash equilibria are exactly solutions of
+\[
+ x_w\ge0,\quad \sum_w c_{iw}x_w=1,\quad
+ P_w(x)\le v_{B(w)},\quad
+ x_w(v_{B(w)}-P_w(x))=0,
+\]
+where $B(w)$ is the player orbit. There are at most $2q$ variables and
+$O(q)$ constraints of degree at most $D=\max\{2,d\}$.
+\end{proposition}
+\begin{proof}
+For a representative $(i,a)$, sum each factor table against the independent
+probabilities of its other players, fixing $a$. This constructs $P_w$ with
+at most $d-1$ probability factors per term. Exact typed automorphisms identify
+conditional payoffs throughout the orbit. There are at most $q$ player orbits;
+the displayed constraints say precisely that every action's payoff is at most
+the player's value and every positive-probability action attains it. These
+are the mixed Nash conditions. The classical invariant-equilibrium existence
+argument applies, so the system is nonempty.
+\end{proof}
+
+Using standard real-algebraic sampling, this gives runtime
+$(qD)^{O(q)}\operatorname{poly}(L)$ for an algebraically represented exact
+solution. The coefficient-bit and output-encoding bound is an external
+algorithmic ingredient, not implemented here; its precise original-source
+formulation remains to be verified before publication. The primary algorithmic
+baseline is Tewolde et al.'s action-orbit method\citep{tewolde2025}; symmetric
+graphical-game algorithms are also prior art\citep{brandt2011}.
+
+There is a useful input-size refinement. Remove singleton-action players and
+substitute their actions. A residual factor on $t$ active players has at least
+$2^t$ table entries, so $t\le\log_2 L$. Consequently the bound is
+$(q\log L)^{O(q)}\operatorname{poly}(L)=f(q)\operatorname{poly}(L)$:
+for $a=Cq$, $(\log L)^a\le(a/e)^aL$, up to fixed log-base factors.
+The same observation applies to the explicit normal-form baseline; it does
+not establish a new separation from that prior algorithm. Expanding the
+orbit coordinates to individual actions costs at least the output length.
+Rational approximation needs a normalization repair: approximate orbit
+masses within each player's action-orbit blocks, renormalize their sum, and
+divide by block multiplicities. Payoff Lipschitz bounds from the explicit
+rational tables give an $\varepsilon$-Nash output at precision polynomial in
+$L$ and $\log(1/\varepsilon)$.
+
+One can also append a polynomial welfare threshold to this compact system
+and bisect its feasible values, obtaining an $\eta$-optimal equilibrium
+\emph{within the invariant Nash set}. Compactness gives attainment; rational
+rounding requires an additional welfare-error allowance. This does not
+optimize unrestricted Nash or guarantee good welfare.
+
+An invariant correlated-equilibrium program instead uses probabilities on
+\emph{profile} orbits and representative deviation-orbit inequalities.
+Averaging preserves CE and an invariant linear welfare objective; an optimal
+solution can use at most $r+1$ profile orbits when there are $r$ deviation rows.
+However binary cyclic games can have at least $2^n/n$ profile orbits despite
+only two action orbits. Neither enumeration nor decentralized correlated
+sampling is free. Compact CE algorithms are established prior
+work\citep{papadimitriou2008,jiang2011}.
+
+\subsection{A one-orbit counting obstruction}
+Given a Boolean circuit $F$ on $n\ge2$ bits, let $r$ rotate coordinates and
+$c$ complement them. Give all players the same succinct payoff circuit
+\[
+ u_i(s)=\frac1{2n}\sum_{j=0}^{n-1}\bigl(F(r^js)+F(cr^js)\bigr).
+\]
+Rotation and simultaneous complementation are exact typed automorphisms,
+transitive on player-action pairs: $q=1$. The unique invariant product profile
+is fair independent bits. It is Nash because complementation equates each
+player's two conditional payoffs. Yet
+\[
+ \mathbb E u_i=2^{-n}\#\{s:F(s)=1\}.
+\]
+Every transformation permutes the input cube, proving the equality and an
+explicit counting-SAT reduction for exact value evaluation. This standard-style
+reduction concerns succinct circuits, not explicit local tables. Finding the
+uniform equilibrium is trivial here; invariant regret is zero. No hardness
+of equilibrium output, regret evaluation or value-free near-optimal profile
+selection follows.
+
+\section{When symmetry averaging changes implementation}
+Let a finite mechanism's feasible vector set be nonempty compact convex and
+preserved by a finite relabelling group. Include linear joint report/action
+incentives and a group-invariant linear resource budget. For an invariant
+\emph{affine} objective $J$, averaging an optimizer over the group gives an
+invariant optimizer at the same resource level. This is established reasoning,
+explicit in collective-action mechanism design\citep{battaglini2024}.
+Invariance alone is insufficient: on the two-coordinate probability simplex,
+$J(z)=z_1^2+z_2^2$ has only noninvariant vertex maximizers under exchange.
+
+Nor does averaging preserve product-law implementations. Independent actions
+produce exactly one active agent with probability one only by designating a
+surely active agent and making all others surely inactive. Their permutation
+average is correlated, so public role selection changes the architecture.
+At a fixed input, allowed outputs decompose into stabilizer orbits. An invariant
+law is a mixture of uniform orbit laws, with minimum entropy $\log_2 m$ for
+smallest orbit size $m$. A deterministic decoder of $b$ fair seed bits exists
+exactly when $2^b$ is a nonnegative integer combination of allowed orbit sizes.
+A single three-element orbit therefore has no fixed finite fair-bit sampler;
+rejection using two bits has expected cost $8/3$ bits and unbounded worst case.
+These are centralized sampling facts, not general distributed communication
+or anonymous-election bounds.

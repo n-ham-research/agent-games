@@ -4,12 +4,15 @@ Mathematical research by **Nicholas Ham** on information-constrained coordinatio
 incentives and equilibrium selection in finite multi-agent systems.
 
 Working paper: **Symmetry, Incentives and Equilibrium Selection in Multi-Agent
-Systems**. This is an initial research draft, with verified finite-model
+Systems**. The Phase 11 draft is 11 pages. This is a research draft, with verified finite-model
 arguments and provisional originality, not a submitted or externally reviewed
 publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 11 handover](research/phase11-handover.md) and [five ranked research questions](research/phase11-priorities.md).
+- [Local-factor orbit algorithms](research/phase11-orbit-algorithms.md), [private-cost mechanisms](research/phase11-volunteer-mechanisms.md), and [priced verification/representation boundaries](research/phase11-information-resources.md).
+- [Phase 11 source comparisons](research/phase11-literature.md).
 - [Initial campaign handover](research/phase10-handover.md).
 - [Equilibrium and Bayesian selection](research/equilibrium-selection.md).
 - [Allocation information](research/allocation-information.md).
