@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 18 handover](research/phase18-handover.md), [ranking and research decision](research/phase18-assessment.md), and [preliminary outline only](research/phase18-outline.md).
+- [Incentive-caused marginal geometry](research/phase18-strategic-geometry.md), [small protected projections](research/phase18-projections.md), [endogenous information](research/phase18-endogenous-information.md), and [sequential exploration](research/phase18-sequential.md).
+
 - [Phase 17 handover](research/phase17-handover.md), [ranking and publication assessment](research/phase17-assessment.md), and [originality audit/LP lower bound](research/phase17-originality.md).
 - [Repeated-worker representations](research/phase17-representations.md), [multi-constraint disclosure](research/phase17-disclosure.md), and [decentralized selection](research/phase17-decentralized.md).
 

@@ -160,3 +160,19 @@ and exact-source comparisons are in AG-P16-REVIEW.md and branch notes.
 Originality reassessment: P14-A short structural extension, P16-T1 reverse-
 differentiation/tree-marginal corollary, P16-H elementary relevance transfer.
 Exact restricted priorities unresolved; no manuscript promotion.
+
+
+## Phase 18
+
+| ID | Result / proof | Classification and limits |
+|---|---|---|
+| P18-G1 | Same action-marginal cube becomes STAB under ordinaryCE/CCE in binary collision polymatrix games; exponential exactEF family; phase18-strategic-geometry.md | Reviewed support-elimination/Rothvoss transfer; constant equilibrium payoffs, weakly dominated activation; not payoff-region theorem |
+| P18-G2/G3 | Calibrated best-shot positive-margin PMface; compact augmentedmoment lift gains only2N obedience rows | Reviewed strict-face variant and standard moment lemma; no smaller-margin robustness or new general LP principle |
+| P18-P/P0 | Hard edge-cover fullregion has O(k) exact protected matching-edge projection and2k+2-profile recovery; one payoffalone alwaysinterval; phase18-projections.md | Reviewed constructive task-class result, m>=k+2 and disjoint roles; endpoint computation distinct from existential size |
+| P18-I1 | Sharp certain-success capability-acquisition information and private/public cardinality gap; phase18-endogenous-information.md | Reviewed entropy/list prior plus task-specific obedient attainment; uniform hidden capability, no private self-awareness |
+| P18-I2 | Exact low-success KL information slope under stated tau/delta domain | Reviewed candidate, missing tau<=1 repaired; not whole reliability frontier |
+| P18-S1 | Persistent scalar-cost repeated efficient selection remains type-independent; phase18-sequential.md | Whole-protocol imitation corollary, always success/exactly one/no transfers essential |
+| P18-S2/S3 | Pathwise discounted workload exact/finite-memory/approximation boundary | Central memory phenomenon already known in target-discounted-sum primary literature; rational specialization elementary, not new major result |
+
+No substantive stronger repeated-worker width theorem or new decentralized
+secure implementation theorem was established. No manuscript promotion.

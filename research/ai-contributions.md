@@ -124,3 +124,21 @@ and matching-face proofs/sources. Root standardized one test import. Exact AI
 roles/limitations are in AG-P17-REVIEW.md; same-family review is not external
 verification, novelty clearance or author sign-off. No manuscript/companion edits,
 LLM experiment, researcher contact, author change or submission.
+
+
+## Phase 18,16 October2026
+
+Root Codex read the full review/records, proposed collision marginal separation,
+developed protected projection bounds/completion/threshold mechanism and exact
+checks, reconstructed information/sequential scopes and integrated records.
+p12_compact independently developed polymatrix/best-shot/moment versions, exact
+checks and primary comparisons; reviewed projection. p12_verification developed
+capability acquisition curves, symbolic-log tests and primary entropy comparisons;
+reviewed sequential and geometry. p5_splitting investigated repeated persistent
+costs/pathwise assignment memory, discovered exact close target-sum prior and
+downgraded originality; independently reviewed geometry/projections/information.
+Its information review found missing tau<=1, repaired before integration.
+Root corrected a failed finite counterexample and standardized a test import.
+Same-family internal attacks are not external certification or author sign-off.
+No manuscript/companion edits, empirical LLM work, external contact, authorship
+change or publication submission. Detailed provenance: AG-P18-REVIEW.md.

@@ -336,6 +336,54 @@
     [
       "P17-E2",
       "P17-E3"
+    ],
+    [
+      "Literature:CE-support-weak-dominance",
+      "P18-G1"
+    ],
+    [
+      "Literature:Rothvoss2017-Theorem1",
+      "P18-G1"
+    ],
+    [
+      "Literature:best-shot-independent-set",
+      "P18-G2"
+    ],
+    [
+      "Literature:moment-polytope-CE",
+      "P18-G3"
+    ],
+    [
+      "P17-X",
+      "P18-P-comparison"
+    ],
+    [
+      "P13-R",
+      "P18-P"
+    ],
+    [
+      "Literature:matching-completion-threshold-coupling",
+      "P18-P"
+    ],
+    [
+      "Literature:variable-list-Fano",
+      "P18-I1"
+    ],
+    [
+      "Literature:binary-KL-convexity",
+      "P18-I2"
+    ],
+    [
+      "P17-E2",
+      "P18-S1"
+    ],
+    [
+      "Literature:target-discounted-sum",
+      "P18-S2"
+    ],
+    [
+      "P18-S2",
+      "P18-S3"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

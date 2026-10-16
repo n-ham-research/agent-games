@@ -119,3 +119,22 @@ direct-decision prior-method application; decentralized obstructions use known
 type-imitation/cheap-talk reasoning. No novel resource synthesis theorem emerged,
 and that branch deliberately stopped. Paper planning needs exact new-result
 overlap checks, not the argument that no prior paper contains our package.
+
+
+## Phase 18
+
+A literal incentive-caused exactEF separation is proved in SAME recommendation-
+marginal coordinates: cube versus independent-set/matching region. It is a
+short classical support/face transfer, with weakly dominated activation and
+constant payoff caveats; a calibrated best-shot variant does not establish
+ordinaryCE payoff hardness. Rothvoss remains the entire deep lower-bound input.
+Protected projections explicitly collapse on the previous hard coverage family.
+Both are meaningful scoped answers, not evidence of a new general complexity
+technique or a universal payoff-projection theorem.
+
+Endogenous capability acquisition supplies sharp incentive/info curves using
+known list entropy/KL tools and task-specific attaining laws. Exact priority
+unresolved. The outside-framework discounted assignment memory phenomenon was
+found explicitly in primary2026/2013 target-sum prior and downgraded; no newpaper
+claim. No stronger repeated-worker theorem was manufactured. See assessment
+for deliberate shift options and outline-only publication status.

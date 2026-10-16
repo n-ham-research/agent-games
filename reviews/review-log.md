@@ -52,3 +52,13 @@ resource approximation deliberately stopped short of known-method repetition.
 192 exact tests and frozen/build checks pass in working tree and clean copy.
 Actual scope/limits in AG-P17-REVIEW.md; no manuscript/companion edits, external
 verification or submission.
+
+
+Phase18,16October2026: same-coordinate recommendation-marginal incentive gap,
+exact compact protected projections, capability acquisition/info curves, repeated
+persistent-cost/assignment exploration. Separate proof attacks caught a missing
+tau<=1 information domain condition, repaired; a failed finite counterexample
+was rejected. Exact known target-sum prior downgraded the memory branch.
+220 exact tests and frozen/build checks pass in working tree and clean copy.
+See AG-P18-REVIEW.md for actual scope/provenance. No manuscript/companion edits,
+external verification, contact or submission; preliminary outline only.

@@ -95,3 +95,16 @@ signaling-LP application; joint redesign and decentralized message incentives
 are serious competing questions. No new approximate substitution theorem was
 manufactured. See phase17-assessment/handover for ten deliverables and next
 significant questions. No new manuscript or companion changes.
+
+
+## Phase 18 — comparable outputs and endogenous information
+
+Same-coordinate recommendation geometry can become hard solely through obedience,
+with explicit economic/margin caveats; fixed protected payoffs+success collapse
+on the old hard coverage family. No new overlap-width extension beyond known
+processing was found. Capability-dependent joint acquisition/recommendation gives
+sharp information bounds and private-list-size advantage. Repeated persistent
+cost imitation remains an obstruction; discounted workload memory overlaps exact
+prior. Shift exploration toward genuine payoff-space/approximate separations
+and information under partial self-awareness, not width/constant polishing.
+No new manuscript; preliminary outline and conditional companion handoff only.

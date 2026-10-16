@@ -84,3 +84,16 @@ novelty checks of repeated-worker FPT and read-twice payoff-face restrictions.
 Do not re-polish weighted-threshold constants or default-error observer bounds.
 Fairness, assignment, learning and calibrated symmetry remain competing routes,
 not consequences asserted from central CE feasibility.
+
+
+## Phase 18 high-value unresolved questions
+
+1. A nondegenerate ordinary-CE PAYOFF-coordinate causal representation separation,
+   beyond dominated-action recommendation marginals or binding maximal margins.
+2. Fixed-two-coordinate/approximate formulation limits, and incident protected
+   roles beyond the explicit matching-edge projection.
+3. Endogenous capability information with nonuniform priors, private self-awareness
+   or physical sensor constraints, beyond ideal variable-list acquisition.
+4. Evolving private capabilities and verified local resources yielding an actual
+   decentralized repeated implementation guarantee. Do not recycle the known
+   target-discounted-sum memory example as a new discovery.
