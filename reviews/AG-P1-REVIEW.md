@@ -59,3 +59,12 @@ equivariant solution correspondence for abstract selectors, IID private seeds
 for the identical-policy bound, and a reminder that two-state zero-cost
 tracking uses free reverse actuation. All were incorporated. No other
 substantive defect was reported. Root inspected the full rendered manuscript.
+
+## Final verification
+
+20 standard-library exact tests and all3 SHA256 imports pass. The original
+feasibility toy script passes. The seven-page manuscript compiles without
+undefined references or overfull boxes; root visually inspected every page.
+A fresh git-archive checkout passed the same checks/build with no ignored
+inputs. Native editor tools were not exposed; installed local TeX was used.
+Companion HEADs and their only unrelated untracked ZIPs remain unchanged.

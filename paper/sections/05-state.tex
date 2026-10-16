@@ -1,0 +1,45 @@
+\section{Persistent state and priced checkpoint tracking}
+The canonical Game Fairness observer-quotient theorem characterizes observable
+path independence by splitting after invisible transformations are quotiented
+out. We use it as a dependency and ask a different operational question.
+
+A two-role carrier has state $x\in\mathbb Z/4$, role parity $p=x\bmod2$ and
+calibration bit $b=\lfloor x/2\rfloor$. The task succeeds iff $b=0$, so its
+accepted configurations are $0,1$. Starting at $0$, it receives $T$ swap
+requests, each followed by a task checkpoint. The required state is the
+current parity, not just any state with that parity. The fixed primary
+actuator adds $1$; after each actuation a controller may add $2$ at cost $c>0$.
+One primary actuation per request is mandatory, and extra primary operations
+are unavailable. These targets and prices are physical model inputs.
+
+\begin{proposition}[AG-C1/C2]
+The minimum correction cost for success at every checkpoint is
+$c\lfloor T/2\rfloor$. If both primary directions $+1,-1$ are freely
+available and the controller can observe or remember current parity, every
+checkpoint succeeds with zero correction cost, although
+$\mathbb Z/4\to\mathbb Z/2$ does not split.
+\end{proposition}
+\begin{proof}
+Successful states alternate $0,1$. From $0$, adding $1$ reaches $1$ for free;
+from $1$ it reaches $2$ and needs one costed addition of $2$ to reach $0$.
+These forced checkpoint states prove necessity and attainability. With both
+actuators, choose $+1$ at $0$ and $-1$ at $1$. The odd elements nevertheless
+have square $2$, preventing a homomorphic section.
+\end{proof}
+If inverse actuation costs $d\ge0$, the minimum is
+$\lfloor T/2\rfloor\min(c,d)$. When reverse actuation is free, a controller with no clock, feedback or other
+input than identical swap requests needs two internal states for zero-cost
+tracking with both actuators; one deterministic state repeats a fixed direction
+and fails one of the first two checkpoints. If parity is observed, that memory
+is already supplied. A one-bit reset-at-each-call message is a different
+resource from persistent local memory and is not needed per request here.
+
+More generally, for a chosen target section $r:P\to H$ and current allocation
+$a$, an available feedback-dependent lift
+$h(p,a)=r(pa)r(a)^{-1}$ telescopes along histories without requiring $r$ to be
+a homomorphism. Restricted actuators, feedback and task relevance determine
+the cost. With only a final checkpoint the fixed-actuator cost is periodic,
+not linear in $T$. A free destructive reset changes the operation set and may
+erase task information. Conversely, a split extension can have positive
+tracking cost under restricted actuators and chosen targets. None of these
+costs is an intrinsic welfare interpretation of nonsplitting.

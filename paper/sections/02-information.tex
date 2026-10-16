@@ -1,0 +1,65 @@
+\section{Information sufficient for allocation}
+A coordinator observes $Lw$ before choosing an assignment from a nonempty
+finite set $D$. The unknown capability vector belongs to an unrestricted
+finite-dimensional real vector space $W$; assignment $d$ gives disclosed
+linear task reward $b_d(w)$. Observations are truthful, fixed linear
+measurements. No strategic reporting, prior, positivity restriction or
+computational bound is assumed. Fix $d_0$ and let $B$ have rows $b_d-b_{d_0}$.
+
+\begin{theorem}[Allocation contrasts; AG-A1]
+An $Lw$-based deterministic rule can choose an optimal assignment for every
+$w\in W$ iff $\ker L\subseteq\ker B$. The minimum unrestricted scalar
+linear measurement rank is $\operatorname{rank}B$.
+\end{theorem}
+\begin{proof}
+For $t\in\ker L$, the assignment chosen at zero data must maximize reward
+at both $t$ and $-t$. Every reward functional consequently agrees on $t$,
+so $Bt=0$. Conversely the kernel inclusion makes all reward contrasts
+well-defined functions of $Lw$, which suffice for optimization. Rank-nullity
+gives the lower bound; measuring $Bw$ attains it.
+\end{proof}
+This is a standard linear-estimability argument applied to decisions, not a
+new general theory of decision-focused prediction \citep{elmachtoub2020}.
+For a restricted capability domain $C$, the correct condition is a common
+maximizer on each observation fiber:
+\[
+ \bigcap_{w\in C:\,Lw=y}\arg\max_{d\in D}b_d(w)\ne\varnothing.
+\]
+For example, $b_0=0,b_1(w)=w$ on $w\ge0$ needs no measurements, unlike
+the full-line problem. Offsets and bounded domains cannot be ignored.
+
+For $n$ agents filling $n$ fixed tasks bijectively, write $C_{ij}$ for arbitrary
+real completion scores. Assignment $\pi$ has score $\sum_i C_{i,\pi(i)}$.
+The reward-contrast span consists of matrices with zero row and column sums,
+with basis
+$E_{ij}-E_{in}-E_{nj}+E_{nn}$, $i,j<n$. Each basis rectangle is a difference
+of two assignments exchanging two task choices. Thus exactly $(n-1)^2$
+unrestricted scalar linear measurements suffice and are necessary.
+
+By comparison, testing physical capability-row interchangeability of two agents
+with tasks fixed has discrepancy $T(C)=(C_{1j}-C_{2j})_j$, rank $n$.
+This is a capability-array test, not a claim about a complete normal-form game's
+automorphism group. The canonical Game Fairness criterion identifies $Tw=0$
+through linear observations exactly when their kernel is contained in $\ker T$.
+For $n=2$ allocation rank $1$ is smaller than test rank $2$; for $n=3$
+allocation rank $4$ is larger than test rank $3$. Their row spaces at $n=3$
+are incomparable: a constant added to one row changes interchangeability but
+not any assignment comparison; changing only $C_{31}$ from positive to
+negative leaves the first two rows equal but changes which tasks can be
+optimal. The joint measurement rank is $5$, since the row-space intersection
+has dimension $2$.
+
+\paragraph{Noise, messages and incentives.}
+If reward contrasts factor as $b_d-b_{d_0}=a_dL$ and observations have error
+$\|e\|\le\epsilon$, maximizing $a_d\cdot(Lw+e)$ incurs regret at most
+\[
+ \epsilon\max_{d,e}\|a_d-a_e\|_*.
+\]
+Observed optimality and the dual-norm inequality prove this; for two decisions
+it is the sharp deterministic minimax value on a full linear class with
+surjective $L$. It is not a randomized-regret or finite-bit bound. An informed
+sender can instead communicate a selected assignment using $n!$ messages,
+which is sharp since each permutation is uniquely optimal somewhere. Nor does
+truthful measurement imply truthful reports: a low-capability agent paid only
+for receiving a task may profitably exaggerate its capability. Full proofs
+and exact witnesses remain in the allocation research note.

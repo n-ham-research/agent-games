@@ -1,0 +1,77 @@
+\section{Private costs and an exact mediation gap}
+Two agents independently draw private costs $\theta_i\in\{1/2,3/2\}$ with equal
+probabilities. Each observes its own cost before choosing whether to volunteer,
+$a_i\in\{0,1\}$, simultaneously. Their common prior and utility model are known:
+\[
+ u_i(a,\theta)=2\mathbf1_{a_0+a_1\ge1}-\theta_i a_i,\qquad
+ W=4\mathbf1_{a_0+a_1\ge1}-\theta_0a_0-\theta_1a_1.
+\]
+There are initially no reports, payments or private correlated recommendations.
+The environment is exchange-symmetric ex ante; a mixed-cost realized game is
+not symmetric under bare player exchange. Interim beliefs follow the specified
+prior, rather than an assumed complete-information theorem.
+
+\begin{theorem}[Private information and architecture; AG-E3]
+The unique symmetric behavioral Bayesian Nash equilibrium volunteers at low
+cost only, with welfare $5/2$. Among all possibly distinct local policies with
+public randomness independent of types and independent private seeds, welfare
+is at most $3$, sharply. An externally informed private mediator can attain
+the ex-post optimum, welfare $13/4$ in expectation, by an exchange-equivariant
+obedient recommendation scheme.
+\end{theorem}
+\begin{proof}
+Let $\alpha,\beta$ be the common probabilities at low and high cost, and
+$q=(\alpha+\beta)/2$. Volunteering's interim gain is $2(1-q)-\theta$.
+If $q<1/4$ both types must volunteer; if $q>3/4$ both must abstain, each a
+contradiction. At $q=1/4$ low must volunteer, forcing $q\ge1/2$; at $q=3/4$
+high must abstain, forcing $q\le1/2$. Otherwise low volunteers and high
+abstains, giving $q=1/2$ and strict gains $1/2,-1/2$. Direct averaging gives
+welfare $5/2$.
+
+Conditional on a public seed, welfare is multilinear in the four local
+behavioral probabilities, so a maximum occurs at deterministic policies.
+With $N,L,H,A$ denoting never, low only, high only and always volunteering,
+all possibilities have welfare matrix
+\[
+\begin{array}{c|rrrr}
+ &N&L&H&A\\\hline
+N&0&7/4&5/4&3\\
+L&7/4&5/2&2&11/4\\
+H&5/4&2&3/2&9/4\\
+A&3&11/4&9/4&2
+\end{array}
+\]
+The largest entry is $3$. Public randomization cannot improve the bound.
+A designated volunteer attains it and is a Bayesian equilibrium; a public
+fair lottery between the two designated equilibria makes the selection law
+exchange-invariant.
+
+Finally let a trusted mediator observe actual costs and recommend exactly one
+minimum-cost volunteer, uniformly at ties. At every realized type profile,
+the volunteer gains $2-\theta_i>0$ from obeying; the abstainer would only
+pay an extra cost by deviating. Hence the scheme obeys conditional incentives
+as well. One cheapest volunteer maximizes $W$ pointwise, and its expected
+cost is $3/4$, giving $13/4$. The rule commutes with exchange in distribution.
+\end{proof}
+This is a finite Bayesian-correlation comparison in the established setting
+of \citet{bergemann2016}, not a new general mediation theorem. External type
+observation is substantive. A low type can profitably report high if reports
+are trusted: it reduces its selection probability while another volunteer
+still supplies the benefit. Obedience is not truthful elicitation.
+
+The bounds also depend on implementation. Requiring identical local policies
+lowers the best unconstrained welfare to $41/16$, attained at
+$(\alpha,\beta)=(1,1/4)$, which is not Bayesian Nash. Indeed with
+$q=(\alpha+\beta)/2$ welfare is
+$8q-4q^2-\alpha/2-3\beta/2$; minimizing costs at fixed $q$ volunteers low
+first and yields this maximum by completing the square. Thus the symmetric
+BNE value $5/2$, optimal anonymous-policy value $41/16$, public labeled-policy
+value $3$ and informed mediator value $13/4$ concern different feasible sets.
+
+Invariant Bayesian equilibrium existence has a separate standard proof: with
+positive marginal type probabilities, take the product of every type's
+behavioral simplex. For a finite group preserving prior, typed actions and
+\emph{interim} best responses, the fixed-space Kakutani argument applies to
+the conditional BR product. Ex-ante numerical symmetry alone is not a license
+to omit those assumptions. This existence does not supply the mediator's
+information or efficiency.

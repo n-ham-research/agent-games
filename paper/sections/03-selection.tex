@@ -1,0 +1,56 @@
+\section{Symmetric selection and implementation resources}
+The suggested obstruction ``automorphisms move every equilibrium'' must be
+qualified: it cannot exclude a fixed independent mixed Nash profile in a
+finite game with cardinal automorphisms.
+
+\begin{proposition}[Classical invariant equilibrium; AG-E1]
+For every finite group $G$ of cardinal typed automorphisms, a finite game
+has a mixed Nash equilibrium fixed by every $g\in G$.
+\end{proposition}
+\begin{proof}
+The fixed set $X^G$ in the product of mixed-strategy simplexes is nonempty,
+compact and convex, by affine averaging. At fixed $x$, cardinal maps preserve
+best responses, so $\mathrm{BR}(x)$ is $G$-stable. Averaging a best-response
+profile stays in its convex best-response product and is fixed by $G$.
+Thus $\mathrm{BR}(x)\cap X^G$ is nonempty compact convex with closed graph.
+Kakutani gives a fixed point, hence the required equilibrium.
+\end{proof}
+For exact maps this is Nash's established theorem, recalled by
+\citet[Theorem 7, long version]{tewolde2025}. Cardinal best-response preservation
+is prior Game Fairness U5. Ordinal automorphisms need not preserve mixed
+best responses and cannot be substituted. We have not proved existence by
+averaging arbitrary equilibria: their marginal average can fail to be Nash.
+
+For a game class and relabeling action, a set-theoretic equivariant selector
+from a relabeling-equivariant solution correspondence exists iff every input stabilizer fixes some
+solution. Choose a fixed solution per input orbit and transport it to prove
+sufficiency; necessity is immediate. This supplies no continuity, computation
+or decentralized implementation guarantee. Averaging a point mass over a finite
+group always supplies an invariant lottery on a nonempty invariant solution
+set, even if that set is infinite. If its support consists of Nash profiles,
+its induced action distribution is correlated equilibrium by linearity of
+obedience inequalities. It is not generally a product distribution.
+
+For example, two agents each receive $1$ for unequal binary actions and $0$
+otherwise. Pure Nash profiles $(0,1),(1,0)$ are exchanged by the exact player
+swap. Neither is fixed, while the unique fully mixed equilibrium is the fixed
+profile $(1/2,1/2)$, with task success $1/2$. An invariant lottery on the two
+pure profiles attains success $1$. This classical anti-coordination witness
+already appears in \citet{cheng2004}; the broader welfare obstruction for
+equivariant approximators has substantial prior treatment \citep{duan2023}.
+
+\begin{proposition}[An anonymous resource bound; AG-E2]
+Suppose the agents use identical local code and observations, public randomness
+with the same interpretation, and conditionally IID private random
+seeds. Without distinguishing roles or communication, anti-coordination
+success is at most $1/2$. A private complementary recommendation device
+attains $1$ obediently.
+\end{proposition}
+\begin{proof}
+Conditional on a public seed, actions are IID Bernoulli$(p)$ and success is
+$2p(1-p)\le1/2$. Average over seeds. Complementary recommendations always
+succeed, and no recommended player gains by changing its action.
+\end{proof}
+Distinguishable roles with a public fair bit also attain $1$; they drop the
+identical-observation assumption. An invariant distribution existing
+mathematically is therefore separate from its available implementation.
