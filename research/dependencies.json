@@ -384,6 +384,42 @@
     [
       "P18-S2",
       "P18-S3"
+    ],
+    [
+      "P18-I1",
+      "P19-I2"
+    ],
+    [
+      "Literature:KL-conjugacy",
+      "P19-I2"
+    ],
+    [
+      "P19-I1",
+      "P19-I2"
+    ],
+    [
+      "P19-I2",
+      "P19-I3"
+    ],
+    [
+      "P18-I1",
+      "P19-A"
+    ],
+    [
+      "P19-I2",
+      "P19-E1"
+    ],
+    [
+      "P19-E1",
+      "P19-E2"
+    ],
+    [
+      "P18-P",
+      "P19-P"
+    ],
+    [
+      "Literature:CE-linearity-symmetry",
+      "P19-G"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

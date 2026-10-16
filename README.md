@@ -85,3 +85,11 @@ invariance, assignment and observation theory. Exact result/commit dependencies
 are [pinned here](research/cross-project-dependencies.md). Neither companion
 was modified during this campaign. No Cortex/Gantry integration, external
 contact, authorship change or submission is authorized or performed.
+
+## Phase 19 research
+
+[Ten-item handover](research/phase19-handover.md),
+[assessment and research map](research/phase19-assessment.md), and
+[internal review](reviews/AG-P19-REVIEW.md). The full uniform information frontier
+is solved; ordinary-CE nonconstant-payoff hardness remains open. No new
+manuscript or companion edits.

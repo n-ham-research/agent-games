@@ -97,3 +97,13 @@ not consequences asserted from central CE feasibility.
 4. Evolving private capabilities and verified local resources yielding an actual
    decentralized repeated implementation guarantee. Do not recycle the known
    target-discounted-sum memory example as a new discovery.
+
+## After Phase 19
+
+Closed: full uniform no-self-awareness exact reliability curve, its at-least
+version, and linear optimization on P18's disjoint-role protected projection.
+Open: nonuniform N>2/heterogeneous full frontier; noisy private capability
+signals; verifiable endogenous availability/reporting; decentralized acquisition;
+natural ordinary-CE nonconstant-payoff compact-baseline EF separation; robust
+approximate geometry; incident protected roles without matching slack.
+Do not continue parity hardness under P19-G's closure hypotheses.

@@ -142,3 +142,14 @@ Root corrected a failed finite counterexample and standardized a test import.
 Same-family internal attacks are not external certification or author sign-off.
 No manuscript/companion edits, empirical LLM work, external contact, authorship
 change or publication submission. Detailed provenance: AG-P18-REVIEW.md.
+
+## Phase 19 (17 October2026)
+
+Codex root proposed the symmetric moment/KL-conjugate route; information branch
+completed frontier/feasibility/at-least cases and exact witnesses. Exploration
+derived self-test/availability reductions; geometry derived complement closure
+and stopped invalid positive-separation leads. Root derived asymmetric two-worker
+entropy rectangle and direct protected-projection optimizer. Branches performed
+reciprocal proof attacks recorded in AG-P19-REVIEW.md. Root integrated sources,
+records, code and checks. All same-model AI reviews; no external peer review,
+author sign-off, empirical behavior study or authorship change.

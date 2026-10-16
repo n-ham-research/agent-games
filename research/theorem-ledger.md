@@ -176,3 +176,20 @@ Exact restricted priorities unresolved; no manuscript promotion.
 
 No substantive stronger repeated-worker width theorem or new decentralized
 secure implementation theorem was established. No manuscript promotion.
+
+## Phase 19 candidates (17 October 2026)
+
+- P19-I1/I2/I3: complete feasible interval, adjacent-cardinality/one-tilt exact
+  uniform acquisition frontier, optimal reliability and at-least distinction.
+  Proved task-specific candidate, classical methods; exact priority unresolved.
+- P19-A: nonuniform two-worker heterogeneous full-success private/public optimum
+  and strict concealment criterion; technically distinct small extension.
+- P19-E1/E2: hidden self-test counterfactual reduction and visible-availability
+  acquisition factor; proved scoped architecture equivalence, novelty unresolved.
+- P19-G: complement closure of ordinary CE payoff region; elementary corollary,
+  no positive nondegenerate payoff EF separation.
+- P19-P: three-breakpoint protected-projection optimization plus small-law
+  recovery; direct P18-P corollary, no generic low-dimension claim.
+Proofs: phase19-information-frontier.md, phase19-asymmetric-information.md,
+phase19-exploration.md, phase19-payoff-geometry.md, phase19-projection-optimization.md.
+Internal reviews: ../reviews/AG-P19-REVIEW.md. No manuscript promotion.

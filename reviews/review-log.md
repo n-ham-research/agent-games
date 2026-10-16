@@ -62,3 +62,10 @@ was rejected. Exact known target-sum prior downgraded the memory branch.
 220 exact tests and frozen/build checks pass in working tree and clean copy.
 See AG-P18-REVIEW.md for actual scope/provenance. No manuscript/companion edits,
 external verification, contact or submission; preliminary outline only.
+
+Phase19,17October2026: complete uniform information frontier, heterogeneous
+private/public acquisition, hidden self-tests/observed availability, complement
+closure and direct protected optimization. Reciprocal internal proof reviews
+passed; no natural positive ordinary-CE payoff separation or approximate EF
+theorem obtained. Actual scope/source limits: AG-P19-REVIEW.md and
+../research/phase19-assessment.md. Foundation/companions unchanged.

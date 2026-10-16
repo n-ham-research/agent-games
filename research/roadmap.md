@@ -108,3 +108,13 @@ cost imitation remains an obstruction; discounted workload memory overlaps exact
 prior. Shift exploration toward genuine payoff-space/approximate separations
 and information under partial self-awareness, not width/constant polishing.
 No new manuscript; preliminary outline and conditional companion handoff only.
+
+## Phase 19 completed: information first
+
+The complete uniform capability reliability frontier is proved, including exact
+versus at-least targets. Heterogeneous two-worker concealment and hidden self-test
+reductions extend it. Prioritize meaningful nonuniform/private-signal generality
+and task-assignment novelty checks. Natural nonconstant-payoff CE separation
+remains open; complement closure stops the parity route. A three-breakpoint
+optimizer completes the protected projection algorithm. See phase19-assessment.md
+and phase19-handover.md. No new manuscript or companion change.

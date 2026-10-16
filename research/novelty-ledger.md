@@ -138,3 +138,13 @@ unresolved. The outside-framework discounted assignment memory phenomenon was
 found explicitly in primary2026/2013 target-sum prior and downgraded; no newpaper
 claim. No stronger repeated-worker theorem was manufactured. See assessment
 for deliberate shift options and outline-only publication status.
+
+## Phase 19 gate
+
+P19-I is the strongest task-specific candidate: complete uniform frontier, but
+KL/symmetry/constrained information methods are established. P19-A is a small
+heterogeneous extension; P19-E is an architecture equivalence with explicit
+private-type constraints. P19-G and P19-P are straightforward corollaries,
+not publication headlines. No natural nonconstant-payoff EF separation obtained.
+Actual source versions/access limits and ranking: phase19-assessment.md.
+No absence-of-search-hit novelty inference or external originality clearance.
