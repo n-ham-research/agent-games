@@ -14,3 +14,8 @@ review or novelty clearance. Details in research/phase11-handover.md.
 Phase12, 16 October2026: AG-P12-REVIEW.md records separate development,
 reciprocal attacks, root proof/source audit,58 exact checks and actual narrowing
 of novelty and theorem scope. No external peer review or author sign-off.
+
+Phase13, 16 October2026: separate final V12-C audit plus reciprocal/new-candidate
+attacks, closer Li2017 primary-source discovery,82 exact tests, and broad
+research-map revision. Details in AG-P13-REVIEW.md; no manuscript promotion or
+external peer review. Finite enumeration limits are explicit.

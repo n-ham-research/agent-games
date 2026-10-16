@@ -112,6 +112,46 @@
     [
       "Literature:BPR-updated-Algorithms13.9-13.12",
       "AG-O1-bit-output"
+    ],
+    [
+      "Literature:Li2017-thesis-2.21",
+      "V12-C-prior-comparison"
+    ],
+    [
+      "V12-C",
+      "P13-H"
+    ],
+    [
+      "Literature:symmetric-mechanism-LPs",
+      "P13-H"
+    ],
+    [
+      "Literature:counting-knapsack",
+      "P13-W"
+    ],
+    [
+      "Literature:Schoenebeck-Vadhan2006-Theorem7.5",
+      "P13-Q-context"
+    ],
+    [
+      "Literature:invariant-Nash-existence",
+      "P13-Q-q1-boundary"
+    ],
+    [
+      "P13-Q",
+      "P13-Qapprox-precision-comparison"
+    ],
+    [
+      "Literature:CE-obedience",
+      "P13-P1"
+    ],
+    [
+      "Literature:CE-obedience",
+      "P13-P2"
+    ],
+    [
+      "P13-P2",
+      "P13-R-boundary"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

@@ -36,3 +36,14 @@ minimal-coalition contribution targets. Algorithm result: constant-orbit
 counting-output barrier; positive sum-product branch is prior-method XP and
 not promoted as a new FPT class. Next steps and publication recommendation
 are in phase12-assessment.md. Keep one foundation manuscript; no new repository.
+
+## Phase 13 — two modes of research
+
+Maintain open mathematical exploration alongside focused theorem development.
+The new map covers coordination, information, incentives, interchangeability,
+learning/robustness and sequential systems; a read-only foundational fairness
+map is included without changing the companion. Strongest fresh candidates
+are credible private continuation payoffs and the precision-sensitive two-orbit
+boundary, not another audit formula. Test contextual agent substitution as an
+independent alternative. See phase13-research-map.md and phase13-handover.md.
+Do not let the current manuscript or last theorem determine every next task.

@@ -74,3 +74,21 @@ Source-update: original real-algebraic sampling/bit/output statements checked
 through disclosed original-book-text mirror; phase12-source-audit.md. No solver
 implemented. New rejected extrapolations and concrete witnesses are retained
 in phase12-assessment.md and exact tests. No originality clearance.
+
+## Phase 13 — broader discovery and final audit
+
+| ID | Result and local proof | Classification/limits |
+|---|---|---|
+| V12-C-final-audit | Separate adaptive-audit/joint-deviation reconstruction; phase13-verification-audit.md | Passes exact stated scope; Li2017 thesis already has two-category priority LP; no general method novelty |
+| P13-P1 | Success-preserving coalition deletion preserves CE and Pareto improves; phase13-coalitions.md | Complete reviewed candidate, close persuasion prior; fails to preserve punishment or private-report IC |
+| P13-P2 | Necessary and sufficient zero CE payoff criterion for arbitrary monotone contribution task | Complete reviewed candidate; complete-information private CE, weak obedience; novelty provisional |
+| P13-R | Positive work-obedience margin gives u_i>=B eta s/(c_i+eta); phase13-robustness.md | Direct reviewed inequality corollary; positive singleton floor, sharp example |
+| P13-Q | Player-transitive binary circuit games with actual full action-orbit count2 have counting-hard fine-precision invariant output | Complete reviewed reduction, exactly invariant output, not unrestricted NE or coarse-accuracy hardness |
+| P13-Qapprox | Randomized inverse-accuracy invariant epsilon-NE for promised player-transitive binary q2 pure evaluators | Standard sampling/bisection corollary, charged bit/output costs and confidence |
+| P13-H | Fixed-role/type histogram LP and central exact sampler for minimal-coalition audit frontier | XP(K) symmetry-mechanism application, not new general algorithm or decentralized protocol |
+| P13-W | Weighted-threshold exact first-best value counting reduction with no singleton | Complete standard counting application; value, not mechanism-output hardness |
+| P13-E | q3 constant-accuracy BPP refinement and coarse-accuracy counterexample | Modest known-gadget refinement; no #P/NP constant-accuracy claim |
+
+Broader Agent Games and foundational fairness maps are in phase13-research-map.md.
+The fairness map is a read-only cross-project recommendation, not new canonical
+fairness development. No new manuscript theorems promoted in this phase.

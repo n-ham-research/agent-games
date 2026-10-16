@@ -35,3 +35,9 @@ Phase12: see phase12-assessment.md. Main unresolved questions are succinct
 frontier optimization, unrestricted obedient coalitions, limited/no credible
 punishment, and a genuinely new tractable expected-payoff representation.
 Approximate symmetry and equilibrium selection remain preserved directions.
+
+Phase13 replaces a single formula-driven priority with the competing directions
+in phase13-research-map.md. Open gaps include positive/robust CE punishment,
+partially disclosed private-cost continuations, strategy-compatible finite-state
+agent substitution, and symmetry/accuracy/sample-resource tradeoffs. Foundational
+fairness questions are recommended there with canonical ownership preserved.

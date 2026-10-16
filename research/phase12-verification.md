@@ -331,3 +331,8 @@ including asymmetric multitype and nonmonotone redundant-task rules, exact
 reliability IC checks against a rational audit grid, and the lower-reliability
 higher-audit witness. V12-C was root-proposed and independently reconstructed
 here; a separate review is still needed before manuscript promotion.
+
+Phase13 update: the separate reconstruction in phase13-verification-audit.md
+found no defect within the model and retrieved Li2017's primary thesis, whose
+allocated/unallocated audit LP is closer prior than recorded above. Its2020
+final full body remains uninspected. No generic two-category novelty is claimed.

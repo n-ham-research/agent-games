@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 13 handover](research/phase13-handover.md) and [broad research map](research/phase13-research-map.md).
+- [Coalition continuation results](research/phase13-coalitions.md), [computation and precision boundaries](research/phase13-computation.md), and [independent verification audit](research/phase13-verification-audit.md).
+
 - [Phase 12 handover](research/phase12-handover.md), [contribution assessment](research/phase12-assessment.md), and [actual review](reviews/AG-P12-REVIEW.md).
 - [Constant-orbit lower bounds](research/phase12-compact.md), [selective-audit characterization](research/phase12-verification.md), and [real-algebraic source audit](research/phase12-source-audit.md).
 

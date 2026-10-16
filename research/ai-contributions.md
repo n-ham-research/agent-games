@@ -43,3 +43,17 @@ and independently attacked compact proofs. Separate initial development and
 reciprocal internal review are recorded in AG-P12-REVIEW.md. Novelty claims
 were narrowed after close primary sources were found. No external review,
 authorship change, LLM experiment or submission.
+
+## Phase 13, 16 October 2026
+
+Root Codex read both strategy briefs, reconstructed proofs, independently found
+a private-punishment pair example, proved the positive-margin corollary, and
+wrote broad Agent Games/read-only fairness maps, records and handover. Separate
+p5_splitting instance independently audited V12-C, accessed Li2017 working paper
+and thesis, discovered its closer two-category prior, and attacked new results.
+p12_verification developed CE thinning/zero-face characterization and exact
+witnesses. p12_compact developed histogram/value barriers, the two-orbit root
+construction and its sampled-accuracy benchmark. Both branches reciprocally
+reviewed proofs. Reuse of separate instances and limitations are in AG-P13-REVIEW.md.
+No AI review is represented as external peer review or author sign-off. No
+companion edits, external contact, new manuscript or publication submission.
