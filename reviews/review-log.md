@@ -25,3 +25,11 @@ root review, two contextual-certificate assumption repairs, actual primary
 Cavaliere working-body access and version-qualified comparison.111 exact tests;
 finite coverage limits in AG-P14-REVIEW.md. Manuscript unchanged, novelty
 provisional, no external review or submission.
+
+
+Phase15,16October2026: three separate branches and root coverage development,
+reciprocal proof reconstructions, precise constant-gap payoff hardness and
+explicit primary-prior narrowing of positive DP/factorization methods.139 exact
+tests pass in working tree and clean copy, including all prior111; frozen checks
+and11-page build pass. Actual scope/repairs in AG-P15-REVIEW.md and handover.
+No manuscript promotion, companion changes, external review or submission.

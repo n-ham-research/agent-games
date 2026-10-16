@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 15 handover](research/phase15-handover.md), [ranking and broad map](research/phase15-assessment.md), and [targeted prior comparison](research/phase15-literature.md).
+- [Succinct task algorithms and payoff hardness](research/phase15-succinct.md), [coverage formulation](research/phase15-coverage.md), [information and disclosure](research/phase15-information.md), and [resource substitution](research/phase15-resources.md).
+
 - [Phase 14 handover](research/phase14-handover.md), [ranked assessment and map](research/phase14-assessment.md), and [source audit](research/phase14-literature.md).
 - [Protected payoff regions](research/phase14-continuations.md), [constant-accuracy oracle boundary](research/phase14-complexity.md), and [contextual interchangeability](research/phase14-interchangeability.md).
 

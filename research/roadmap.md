@@ -58,3 +58,16 @@ has a formal stochastic observation/deviation model and preservation theorem,
 but mature bisimulation/realization prior prevents a broad originality claim.
 Ranked contributions and open alternatives are in phase14-assessment.md.
 Continue open exploration; no manuscript expansion or companion changes.
+
+
+## Phase 15 — representation, disclosure and resource boundaries
+
+Succinct representation is now substantive: unary thresholds and a small coverage
+universe admit full-region flow LPs; binary weights already make a single
+protected minimum payoff constant-gap hard. Methods are credited to compact-CE/
+DP prior. Public disclosure and private mediator information have different
+obedience consequences. Substitution now has explicit forward/reverse memory
+budgets, with exact prior factorization and sharp restricted storage bounds.
+See phase15-assessment.md for the refreshed eight-theme map and ranked next
+questions. Connectivity/treewidth, learning and foundational fairness remain
+independent open routes; no companion changes or manuscript expansion.

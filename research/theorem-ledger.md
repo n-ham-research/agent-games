@@ -109,3 +109,21 @@ Cavaliere2000 primary working body found; final2001 remains uninspected.
 Version-specific comparisons and source anomalies: phase14-literature.md.
 All novelty provisional; manuscript unchanged. See AG-P14-REVIEW.md for actual
 repairs, finite check limits and independent proof reconstruction.
+
+
+## Phase 15
+
+| ID | Result / proof | Classification and bounds |
+|---|---|---|
+| P15-S1/S2 | Exact terminal-summary flow CE region; O(nW²) weighted-threshold LP; phase15-succinct.md | Proved established-method adaptation; full utility/success region, unary polynomial, binary pseudopolynomial; central law reconstruction, no LP solver implemented |
+| P15-S3 / P15-S3-C | Capped-multiplicity coverage LP O(n9^d); phase15-coverage.md | Proved FPT(d) application of compact-CE/DP methods; arbitrary costs, full projection, not a connectivity theorem |
+| P15-S4 | One protected worker zero-CE-payoff feasibility NP-complete; 0 versus >=1/4 gap in binary-weight thresholds | Proved candidate; fixed costs1/2,3/4, constant approximate-obedience extension; classical dummy gadget, candidate increment is payoff gap |
+| P15-I1 | Literal recommendation-channel implementability J=QD plus obedience; phase15-information.md | Proved Blackwell/BCE/factorization application; private mediator, receiver information fixed, not general type-contingent plans |
+| P15-I2 | Safe-public-release cone and strictly safe separate disclosures with unsafe joint refinement | Exact obedience characterization and counterexample, no finest safe partition in general; novelty provisional |
+| P15-I3 | Sharp local posterior-odds bounds for conditional margins under residual-world likelihood ratio R | Proved likelihood-ratio application; type-only privacy insufficient, not truthful elicitation |
+| P15-R1 | Supplied finite forward/reverse adapters give dK baseline/eL deviation budget contracts; phase15-resources.md | Proved transducer-composition adaptation, sufficient certificate; mixed-interface and retained-record assumptions essential |
+| P15-R2 | One-cut exact memory equals appropriate-field nonnegative rank | Exact PRIOR algebra Cohen–Rothblum1993 Thm3.2; agent-budget interpretation only |
+| P15-R3 | Repeated-read versus stored-input sharp success min(1,MQ/N), retained TV complement | Proved scoped coding application; N modes means log2N bits; trusted external storage/read access charged |
+
+Novelty provisional. Information results and actual reciprocal review are recorded
+in phase15-information.md and AG-P15-REVIEW.md. Manuscript unchanged.

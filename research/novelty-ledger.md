@@ -65,3 +65,21 @@ several working-text claims require qualification, so they are not treated
 as valid general lemmas or as evidence of novelty. Current generic CE-payoff
 geometry literature also inspected. Source/version details in phase14-literature.md.
 No result is novelty-cleared or ready for submission merely after internal review.
+
+
+## Phase 15
+
+P14-A's protected normal form remains the leading positive structural candidate.
+Succinct thresholds and bounded-universe coverage now have full-region flow
+formulations, but compact-CE optimization, DP separation and network LPs are
+explicitly prior methods. The new strongest negative candidate is the one-worker
+constant-gap minimum-CE-payoff reduction, not classical weighted-voting relevance
+hardness. P15-S4 needs further exact worst-CE/public-good overlap comparison.
+
+Information factorization and private-signal monotonicity are Blackwell/BCE
+territory; safe-release examples/robustness are candidates rather than a new
+general information order. Resource factorization algebra is exactly prior
+Cohen–Rothblum1993 Theorem3.2. Adapter composition and one-cut coding are known
+methods; the resource contract is useful but not yet a standalone original
+paper. Actual source/version limits: phase15-literature.md and branch notes.
+No novelty clearance or manuscript promotion.

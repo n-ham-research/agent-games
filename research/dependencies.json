@@ -196,6 +196,54 @@
     [
       "Literature:finite-coupling-TV",
       "P14-I3"
+    ],
+    [
+      "Literature:compact-CE-deviation-adjusted-welfare",
+      "P15-S1"
+    ],
+    [
+      "P15-S1",
+      "P15-S2"
+    ],
+    [
+      "P15-S1",
+      "P15-S3"
+    ],
+    [
+      "Literature:weighted-voting-dummy-hardness",
+      "P15-S4"
+    ],
+    [
+      "P13-P2",
+      "P15-S4-context"
+    ],
+    [
+      "P14-I1",
+      "P15-R1"
+    ],
+    [
+      "Literature:Cohen-Rothblum1993-Theorem3.2",
+      "P15-R2"
+    ],
+    [
+      "P15-R2",
+      "P15-R3"
+    ],
+    [
+      "Literature:Blackwell-BCE-information-comparison",
+      "P15-I1"
+    ],
+    [
+      "Literature:Cohen-Rothblum1993-Theorem3.2",
+      "P15-I1-alphabet"
+    ],
+    [
+      "Literature:conditional-obedience",
+      "P15-I2"
+    ],
+    [
+      "Literature:Bayes-odds-likelihood-ratios",
+      "P15-I3"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

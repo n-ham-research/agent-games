@@ -70,3 +70,21 @@ initialization. Both assumptions were repaired. Same-family reviews are not
 external peer review or author sign-off. No manuscript, companion, author,
 external contact or submission changes. Exact contributions/source versions
 are recorded in AG-P14-REVIEW.md and the branch notes.
+
+
+## Phase 15, 16 October 2026
+
+Root Codex read the Phase14 review, formulated the weighted-threshold relevance/
+singleton-backstop reduction, independently developed the capped-coverage flow
+proof and exact checks, reviewed all branch proofs, inspected compact-CE and
+weighted-voting primary sources, and integrated records/validation. Separate
+p12_compact developed the general summary-flow formulation, threshold/coverage
+applications, strengthened the reduction to a constant-gap/approximate-obedience
+certificate, and reviewed information. Separate p12_verification developed the
+partial-information/disclosure branch and independently reviewed resources.
+Separate p5_splitting developed resource-budget adapters/cut examples and
+independently attacked coverage and succinct proofs. The resource matrix
+factorization result was narrowed explicitly to exact prior after primary
+Theorem3.2 was located. Same-family internal reviews are not external review,
+author approval or novelty clearance. No companion/manuscript edits, empirical
+LLM work, external contact, authorship change or submission.

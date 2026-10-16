@@ -47,3 +47,18 @@ partially disclosed-information/margin frontiers; bounded-memory/resource-
 preserving contextual transports. Fine circuit versus ordinary oracle accuracy
 remains distinguished. Read-only foundational fairness agenda is preserved,
 without equating contextual strategic preservation with assignment fairness.
+
+
+## Phase 15 priorities after actual boundaries
+
+1. Establish the precise originality of protected thinning and the constant-gap
+   one-worker CE-payoff theorem against compact CE and public-good literature.
+2. Find useful bridge-sensitive connectivity or task-circuit summaries whose
+   size is bounded by a meaningful structural parameter; ordinary membership
+   or graph treewidth alone is not enough to apply the proved summary lemma.
+3. Optimize public disclosure subject to conditional obedience and positive
+   margins, distinguishing signal composition and type-contingent plans.
+4. Develop a genuinely substantial resource-synthesis theorem beyond finite
+   adapter composition/nonnegative factorization/one-cut storage coding.
+5. Keep learning/selection and independently calibrated opportunity fairness
+   competitive; payoff-region feasibility alone establishes neither.
