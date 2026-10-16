@@ -1,0 +1,15 @@
+{
+  "convention": "prerequisite-to-dependent",
+  "edges": [
+    ["GameFairness@f75ec9f:P9-I1", "AG-A2"],
+    ["AG-A1", "AG-A2"], ["AG-A1", "AG-A3"],
+    ["GameFairness@f75ec9f:U5", "AG-E1"],
+    ["AG-E1", "AG-E4"],
+    ["GameFairness@bcf8bfc:P8-C1", "AG-C1-context"],
+    ["AG-C1", "AG-C2"],
+    ["FrozenFeasibility:ModelI", "AG-E5-control"],
+    ["Literature:Nash-invariant-existence", "AG-E1"],
+    ["Literature:finite-potential", "AG-E5"]
+  ],
+  "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."
+}
