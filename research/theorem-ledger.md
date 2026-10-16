@@ -36,3 +36,25 @@ internal AI agreement is not external review or author sign-off.
 Open conjectures are not manuscript theorems. Primary next questions concern
 costed decentralized private information, verification/incentives and partially
 observed persistent-state feedback. See open-questions.md.
+
+## Phase 11 — reviewed candidates and established specializations
+
+| ID | Claim/proof location | Status |
+|---|---|---|
+| P11-M1 | Parameterized two-agent public-local/informed frontier; phase11-volunteer-mechanisms.md | Exact model calibration, not truthful revelation |
+| P11-M2/M3 | Guaranteed-service flat interim workload; first-best equality iff fixed cheapest agent a.s. | Established screening specialization, independent finite costs |
+| P11-M4 | Binary reliability-screening upper bound | Proved bound, not sharp frontier; p interior |
+| P11-M5 | General upward-closed success family: sharp minimum-mean-coalition guarantee, a.s. first-best criterion | Reviewed finite-protocol adaptation; close Battaglini–Palfrey prior |
+| AG-O1 | Additive explicit local-factor invariant Nash polynomial reduction | Reviewed adaptation of Tewolde; external real-algebraic sampling assumption |
+| AG-O1b | q-only FPT through explicit-table logarithmic arity bound | Input-size corollary also applicable to prior normal-form method |
+| AG-O1c | Welfare threshold search within invariant Nash | Reviewed compact polynomial optimization application; not unrestricted efficiency |
+| AG-O2 | Profile-orbit CE LP and <=r+1 orbit support | Standard averaging/LP application; construction costs explicit |
+| AG-O3/O4/O5 | Welfare data lose incentives; cyclic profile orbits exponential; CE lift needs correlation | Exact counterexamples/counting observation, not general complexity hardness |
+| AG-V1 | Arbitrary-n iidbinary expected-query and hard-cap frontiers | Reviewed optional-inspection calibration; no communication-bit theorem |
+| AG-S1 | Affine objective/resource convex mechanism averaging; nonconvex/product boundary | Established prior; invariant nonlinear objective alone insufficient |
+| AG-H1 | q1 circuit exact expected-value evaluation counts SAT | Standard-style explicit reduction; uniform NE easy and regret zero |
+
+Rejected in Phase11: dominant-strategy procurement with arbitrary voluntary
+opponent actions; averaging arbitrary invariant objectives; interpreting value
+hardness as equilibrium-output/regret hardness. Witnesses retained. Original
+real-algebraic bit/output reference verification is still required before publication.

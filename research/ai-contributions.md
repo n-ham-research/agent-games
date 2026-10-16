@@ -20,3 +20,13 @@ independently commissioned mathematical criticism. No actual LLM-agent trial,
 Cortex/Gantry modification, researcher contact, authorship change or publication
 submission was performed. Feasibility contributions/reviews retain their
 original unaltered records under research/origins/feasibility.
+
+## Phase 11, 16 October 2026
+
+Root Codex formulated/reconstructed verification, affine averaging and succinct
+counting results, integrated proofs, literature, manuscript and priorities, and
+ran checks. Separate p11_algorithms and p11_mechanisms instances developed their
+respective notes and exact experiments, then reciprocally reviewed results and
+independently attacked root's note. Root caught the procurement dominance
+error; both instances caught the affine-objective omission. No external review,
+empirical LLM study, submission or authorship change. See reviews/AG-P11-REVIEW.md.

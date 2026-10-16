@@ -14,3 +14,13 @@
 
 No entry is externally reviewed, author approved or priority cleared. AI
 agreement and exhaustive toy checks do not establish originality.
+
+## Phase 11
+
+No new result is novelty-cleared. Screening/averaging are close to explicit
+Battaglini–Palfrey2024 prior; binary verification is a nonobligatory inspection
+special case; action-orbit systems are explicit Tewolde2025 prior. The local
+factor representation and restricted welfare optimization are adaptations
+requiring further overlap review. q-only FPT is not claimed as a separation
+from the explicit normal-form baseline. AG-H1 is a direct standard-style
+counting reduction. See phase11-literature.md and phase11-priorities.md.

@@ -27,3 +27,6 @@ Recommended next campaign: pursue question1 as the principal mathematical
 thread; keep question2 as a contrasting operational model and question3 as an
 information-theoretic support strand. Do not demand all three receive equal
 paper space. No submission or external contact authorized.
+
+Phase11 priority update: see [five ranked questions](phase11-priorities.md),
+with prior baselines, mathematical gaps, candidate statements and applications.

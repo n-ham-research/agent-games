@@ -18,3 +18,12 @@ obstruction is removed by classical Nash theory. Focus the next campaign on
 costed private-information implementation and incentives, with partial-state
 feedback and bounded/decentralized assignment as supporting questions.
 Do not expand the paper merely to collect more classical examples.
+
+## Phase 11 completed research scope
+
+Broader finite-class results now supersede the two-agent model as the main
+research lead: independent-cost contribution tasks, priced trusted verification,
+and incentive-preserving explicit-factor orbit algorithms. Five ranked theorem
+questions, precise gaps and candidate statements are in phase11-priorities.md.
+Prioritize compressed representations and the reliability/verification frontier.
+A substantial original contribution is still the target, not an achieved claim.
