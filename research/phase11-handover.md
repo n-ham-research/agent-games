@@ -57,3 +57,7 @@ game-fairness f75ec9f7f0ff3b74226baed67a2727eccf0220d3;
 game-symmetry e896a5cae79c5c63a81be16f1577bc365e67a5a6.
 No original feasibility, proposal, Cortex/Gantry or unrelated files changed.
 The user authorized committing/pushing completed work in logical units.
+
+Phase12 source update: see phase12-source-audit.md. The previously missing
+sampling/bit/output statements were inspected in original author-book text
+through a disclosed mirror. Historical access failures above remain accurate.

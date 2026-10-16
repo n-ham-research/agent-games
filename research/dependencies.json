@@ -76,6 +76,42 @@
     [
       "Literature:counting-SAT",
       "AG-H1"
+    ],
+    [
+      "Literature:Schoenebeck-Vadhan2006-Theorem7.5",
+      "P12-C1"
+    ],
+    [
+      "P12-C1",
+      "P12-C2"
+    ],
+    [
+      "Literature:sum-product-theorem",
+      "P12-C3"
+    ],
+    [
+      "AG-O1",
+      "P12-C3"
+    ],
+    [
+      "Literature:BDL2014-reduced-form-IC",
+      "V12-A"
+    ],
+    [
+      "Literature:honest-obedient-collective-action",
+      "V12-A"
+    ],
+    [
+      "V12-A",
+      "V12-B-comparison"
+    ],
+    [
+      "V12-B",
+      "V12-C"
+    ],
+    [
+      "Literature:BPR-updated-Algorithms13.9-13.12",
+      "AG-O1-bit-output"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

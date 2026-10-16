@@ -335,3 +335,7 @@ real-algebraic equilibrium solver and does not empirically establish asymptotic
 runtime. A second agent independently reconstructed AG-O1/O1b/O1c and found no
 mathematical defect, while retaining the real-algebraic original-source gap.
 The root review is separate; internal AI review is not external peer review.
+
+Phase12 source update: see phase12-source-audit.md. The previously missing
+sampling/bit/output statements were inspected in original author-book text
+through a disclosed mirror. Historical access failures above remain accurate.

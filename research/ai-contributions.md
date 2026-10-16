@@ -30,3 +30,16 @@ respective notes and exact experiments, then reciprocally reviewed results and
 independently attacked root's note. Root caught the procurement dominance
 error; both instances caught the affine-objective omission. No external review,
 empirical LLM study, submission or authorship change. See reviews/AG-P11-REVIEW.md.
+
+## Phase 12, 16 October 2026
+
+Root Codex formulated the success-selected/unselected audit capacity extension,
+reconstructed proofs, found and checked original real-algebraic book statements
+through a mirror, integrated research records and ran checks. p12_compact
+constructed q3 counting-output and symmetry-certification reductions, reviewed
+verification and source conversion. p12_verification developed arbitrary-target
+one-worker/minimal-coalition audit formulas, implemented the reliability extension
+and independently attacked compact proofs. Separate initial development and
+reciprocal internal review are recorded in AG-P12-REVIEW.md. Novelty claims
+were narrowed after close primary sources were found. No external review,
+authorship change, LLM experiment or submission.

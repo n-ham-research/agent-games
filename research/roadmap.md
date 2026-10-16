@@ -27,3 +27,12 @@ and incentive-preserving explicit-factor orbit algorithms. Five ranked theorem
 questions, precise gaps and candidate statements are in phase11-priorities.md.
 Prioritize compressed representations and the reliability/verification frontier.
 A substantial original contribution is still the target, not an achieved claim.
+
+## Phase 12 decision
+
+Two main programmes investigated, not five example collections. Strongest
+positive candidate: exact selective-audit characterization with failure for
+minimal-coalition contribution targets. Algorithm result: constant-orbit
+counting-output barrier; positive sum-product branch is prior-method XP and
+not promoted as a new FPT class. Next steps and publication recommendation
+are in phase12-assessment.md. Keep one foundation manuscript; no new repository.

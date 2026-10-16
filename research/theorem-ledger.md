@@ -58,3 +58,19 @@ Rejected in Phase11: dominant-strategy procurement with arbitrary voluntary
 opponent actions; averaging arbitrary invariant objectives; interpreting value
 hardness as equilibrium-output/regret hardness. Witnesses retained. Original
 real-algebraic bit/output reference verification is still required before publication.
+
+## Phase 12
+
+| ID | Claim / proof | Classification |
+|---|---|---|
+| P12-C1 | q3 binary pure-payoff-circuit games: every sufficiently precise epsilon-NE reveals counting threshold; phase12-compact.md | Complete reviewed reduction, exponentially small epsilon; constant-orbit refinement of Schoenebeck–Vadhan prior, novelty provisional |
+| P12-C2 | Semantic circuit typed-symmetry checking coNP-complete even with supplied base q3 symmetry | Complete standard circuit-equivalence specialization |
+| P12-C3 | Nonempty-scope decomposable payoff DAG conditional inference, XP(q) invariant Nash | Established-method corollary, not new FPT class; source audit now available |
+| V12-A | Arbitrary one-worker target minimum expected audits sum_i max_c x_i(c)-1 | Complete reviewed reduced-form adaptation with voluntary safety action |
+| V12-B | No-singleton minimal-coalition guaranteed targets, finite-type sharp audit functional | Complete reviewed candidate; credible shutdown and independent costs essential |
+| V12-C | Minimal-coalition/failure target exact audit capacities, closed form, explicit-table welfare/reliability LP | Complete reviewed candidate within restricted target architecture, not unrestricted optimal mechanism |
+
+Source-update: original real-algebraic sampling/bit/output statements checked
+through disclosed original-book-text mirror; phase12-source-audit.md. No solver
+implemented. New rejected extrapolations and concrete witnesses are retained
+in phase12-assessment.md and exact tests. No originality clearance.

@@ -10,3 +10,7 @@ Phase11, 16 October2026: AG-P11-REVIEW.md records two separate same-family
 review instances, root reconstruction, actual defects/repairs,41 passing exact
 tests, source-access qualifications and11-page visual inspection. No external
 review or novelty clearance. Details in research/phase11-handover.md.
+
+Phase12, 16 October2026: AG-P12-REVIEW.md records separate development,
+reciprocal attacks, root proof/source audit,58 exact checks and actual narrowing
+of novelty and theorem scope. No external peer review or author sign-off.

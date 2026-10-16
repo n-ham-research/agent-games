@@ -30,3 +30,8 @@ paper space. No submission or external contact authorized.
 
 Phase11 priority update: see [five ranked questions](phase11-priorities.md),
 with prior baselines, mathematical gaps, candidate statements and applications.
+
+Phase12: see phase12-assessment.md. Main unresolved questions are succinct
+frontier optimization, unrestricted obedient coalitions, limited/no credible
+punishment, and a genuinely new tractable expected-payoff representation.
+Approximate symmetry and equilibrium selection remain preserved directions.

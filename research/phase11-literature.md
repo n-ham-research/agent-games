@@ -15,3 +15,7 @@ AG-H1 is an explicit standard-style counting reduction, not an originality
 claim about succinct-game hardness. AG-S1 and the finite-seed divisibility
 criterion are established averaging/sampling facts. No literature search can
 establish novelty by absence; citations are selected comparisons, not exhaustive.
+
+Phase12 source update: see phase12-source-audit.md. The previously missing
+sampling/bit/output statements were inspected in original author-book text
+through a disclosed mirror. Historical access failures above remain accurate.

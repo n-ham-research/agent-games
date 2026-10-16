@@ -24,3 +24,13 @@ factor representation and restricted welfare optimization are adaptations
 requiring further overlap review. q-only FPT is not claimed as a separation
 from the explicit normal-form baseline. AG-H1 is a direct standard-style
 counting reduction. See phase11-literature.md and phase11-priorities.md.
+
+## Phase 12
+
+Closest-prior comparisons narrow P12-C1 to a constant-action-orbit refinement
+of known circuit counting-output hardness. P12-C2/C3 are standard-method
+applications. V12-A adapts established verification inequalities. V12-C is the
+strongest positive candidate (endogenous punishment plus reliability capacities),
+but additional limited-punishment/verification overlap review is needed. No
+new tractable class or decentralized implementation lower bound is claimed.
+See phase12-assessment.md for abandoned extrapolations and publication decision.
