@@ -10,6 +10,9 @@ publication. Actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 
+- [Phase 17 handover](research/phase17-handover.md), [ranking and publication assessment](research/phase17-assessment.md), and [originality audit/LP lower bound](research/phase17-originality.md).
+- [Repeated-worker representations](research/phase17-representations.md), [multi-constraint disclosure](research/phase17-disclosure.md), and [decentralized selection](research/phase17-decentralized.md).
+
 - [Phase 16 handover](research/phase16-handover.md) and [contribution ranking/map](research/phase16-assessment.md).
 - [Independent hardness audit](research/phase16-hardness-audit.md), [read-once/network tractability](research/phase16-tractability.md), [safe disclosure](research/phase16-disclosure.md), and [sequential substitution](research/phase16-substitution.md).
 

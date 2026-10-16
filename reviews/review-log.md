@@ -42,3 +42,13 @@ Primary comparisons explicitly narrow originality to restricted statements;
 observer/DP/privacy methods prior.166 exact tests and all frozen/build checks
 pass in working tree and clean copy. Actual reconstruction/provenance in
 AG-P16-REVIEW.md. No manuscript/companion edits or external verification.
+
+
+Phase17,16October2026: theorem-level prior audit demotes broad thinning/read-once/
+hardness novelty; coupled repeated-worker FPT and matching-face read-twice exact
+LP barrier independently reconstructed, with primary Rothvoss theorem checked.
+Multi-row disclosure and decentralized selection separately investigated/reviewed;
+resource approximation deliberately stopped short of known-method repetition.
+192 exact tests and frozen/build checks pass in working tree and clean copy.
+Actual scope/limits in AG-P17-REVIEW.md; no manuscript/companion edits, external
+verification or submission.

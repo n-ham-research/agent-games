@@ -143,3 +143,20 @@ in phase15-information.md and AG-P15-REVIEW.md. Manuscript unchanged.
 
 No manuscript promotion or originality clearance. Actual separate-instance attacks
 and exact-source comparisons are in AG-P16-REVIEW.md and branch notes.
+
+
+## Phase 17
+
+| ID | Result / proof | Classification and limits |
+|---|---|---|
+| P17-T1 | Exact full CE payoff/success LP and law recovery in2^{O(r)}poly(S,L) for r repeated workers; phase17-representations.md | Complete reviewed coupled-counterfactual lift; number repeated, not max occurrences; hidden cells pooled |
+| P17-T2 | Read-once task needs2^m exact all-deviation terminal summary states but O(m) local LP | Elementary architecture-specific distinguishability; not arbitrary EF lower bound |
+| P17-X | Read-twice monotone task full payoff/success region needs2^{Omega(sqrt N)} exact LP inequalities at common costs and all fixed delta<=1/2; phase17-originality.md | Complete reviewed matching-face transfer from Rothvoss; hard face already task-feasible, not causal incentive gap/runtime/fixed-k bound |
+| P17-D1 | Explicit multi-row randomized safe guessing N²-variable LP, limited-alphabet XP and garbling guarantee; phase17-disclosure.md | Established direct-decision/LP application, not novel generic signaling theorem |
+| P17-D2/D3 | Natural independent-row example; payoff-irrelevant joint redesign can permit full disclosure; exact architecture nonconvexity witness | Exact scoped examples and standard averaging, not general joint-design complexity result |
+| P17-E1 | Honest read-once distributed min-cost successful strict NE with charged messages; phase17-decentralized.md | Standard DP, not communication equilibrium or learning guarantee |
+| P17-E2/E3 | Always-success/exactly-one private-cost ex-post selectors ignore pair costs; sharp cost ratio and structured extension | Type-imitation application with substantive restrictions; not generic decentralized impossibility |
+
+Originality reassessment: P14-A short structural extension, P16-T1 reverse-
+differentiation/tree-marginal corollary, P16-H elementary relevance transfer.
+Exact restricted priorities unresolved; no manuscript promotion.

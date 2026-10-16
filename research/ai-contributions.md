@@ -106,3 +106,21 @@ throughout. Same-family review is not external verification or author sign-off;
 computation author also worked on the prior phase, disclosed in the audit.
 No manuscript/companion edits, empirical LLM study, contact, submission or author
 change. Root standardized one test import after the independent discovery run.
+
+
+## Phase 17,16 October2026
+
+Root Codex read the review/instructions, constructed repeated-worker coupled
+counterfactual FPT and terminal-summary distinguishability proofs/code, reviewed
+all branch results, directly checked Rothvoss/source passages, and integrated
+records/checks. p12_compact performed the theorem-level originality demotions,
+identified/proved the matching payoff face and EF consequence, inspected exact
+primary sources and reviewed root construction. p12_verification developed the
+multi-row guessing LP, independent-row/joint-design examples, primary signaling
+comparisons and reviewed decentralized results. p5_splitting developed the serious
+decentralized/private-cost/election exploration, explicitly stopped redundant
+resource approximation work, reviewed disclosure and independently attacked root
+and matching-face proofs/sources. Root standardized one test import. Exact AI
+roles/limitations are in AG-P17-REVIEW.md; same-family review is not external
+verification, novelty clearance or author sign-off. No manuscript/companion edits,
+LLM experiment, researcher contact, author change or submission.

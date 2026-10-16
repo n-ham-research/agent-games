@@ -292,6 +292,50 @@
     [
       "Literature:INDEX-storage",
       "P16-R3"
+    ],
+    [
+      "P16-T1",
+      "P17-T1"
+    ],
+    [
+      "Literature:tree-marginal-exactness",
+      "P17-T1"
+    ],
+    [
+      "P16-T1",
+      "P17-T2-comparison"
+    ],
+    [
+      "Literature:Rothvoss2017-Theorem1",
+      "P17-X"
+    ],
+    [
+      "Literature:perfect-matching-face-monotonicity",
+      "P17-X"
+    ],
+    [
+      "Literature:direct-decision-persuasion-LP",
+      "P17-D1"
+    ],
+    [
+      "P17-D1",
+      "P17-D2"
+    ],
+    [
+      "P15-I1",
+      "P17-D3"
+    ],
+    [
+      "Literature:AND-OR-DP",
+      "P17-E1"
+    ],
+    [
+      "Literature:private-type-imitation",
+      "P17-E2"
+    ],
+    [
+      "P17-E2",
+      "P17-E3"
     ]
   ],
   "note": "Contextual P8-C1 is a referenced baseline, not the proof of priced tracking. AG-E3 has a direct complete finite proof. No candidate classification theorem is assumed for its claims."

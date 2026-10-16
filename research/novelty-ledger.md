@@ -101,3 +101,21 @@ restricted candidate; scalar transportation is explicitly perfect-privacy prior.
 Sequential resource observers/synthesis/INDEX are established specializations;
 no separate original-mathematics paper warranted yet. See phase16-assessment.md
 for stopping rules and significance rather than another broad novelty claim.
+
+
+## Phase 17 — explicit demotions and new representation question
+
+P14-A/P16-T1/P16-H are not three independently major discoveries. The audit
+supplies the short extra derivations beyond thinning, reverse differentiation/
+junction trees and classical voting relevance; exact priorities remain unresolved.
+Primary versions and failed-source access are stated in phase17-originality.md.
+
+Strongest new candidate: read-twice full-payoff exact LP obstruction via a
+perfect-matching face, plus a single-exponential FPT repeated-worker construction.
+Rothvoss is the entire deep lower-bound engine and prior game applications are
+acknowledged. Its hard face already occurs in task-feasible geometry; no claim
+of incentives-caused extra extension complexity. Multi-row disclosure LP is a
+direct-decision prior-method application; decentralized obstructions use known
+type-imitation/cheap-talk reasoning. No novel resource synthesis theorem emerged,
+and that branch deliberately stopped. Paper planning needs exact new-result
+overlap checks, not the argument that no prior paper contains our package.

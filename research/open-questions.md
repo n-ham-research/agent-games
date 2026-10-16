@@ -72,3 +72,15 @@ and resource-approximation synthesis beyond known exact observers. Keep calibrat
 assignment, decentralized selection and learning competitive; no general fairness,
 convergence or communication-free implementation follows from the LP results.
 See phase16-handover.md §10 for the concrete formulations and stopping rules.
+
+
+## Phase 17 high-value questions
+
+Investigate fixed-small payoff projections or approximate LP limits beyond the
+full matching face; an incentives-caused compression separation from compact
+task-feasible geometry; payoff-relevant endogenous recommendation/disclosure;
+and repeated decentralized selection with strategic communication. Complete exact
+novelty checks of repeated-worker FPT and read-twice payoff-face restrictions.
+Do not re-polish weighted-threshold constants or default-error observer bounds.
+Fairness, assignment, learning and calibrated symmetry remain competing routes,
+not consequences asserted from central CE feasibility.

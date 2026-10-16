@@ -83,3 +83,15 @@ Sequential substitution now has a complete restricted observer/certificate,
 but mature source overlap limits originality. Plan a focused contribution-game
 paper only after exact novelty gates; no new manuscript or companion changes.
 The broad map and ten next-delivery items are in phase16-assessment/handover.
+
+
+## Phase 17 — representation contracts and redirected originality
+
+Read-once/read-twice exact payoff LP compression is now a precise structural
+boundary, with matching-face deep prior credited. Few repeated workers admit
+an explicit FPT counterfactual lift. Old thinning/read-once/hardness claims are
+downgraded to short extensions/corollaries. Multi-row safe guessing is a mature
+signaling-LP application; joint redesign and decentralized message incentives
+are serious competing questions. No new approximate substitution theorem was
+manufactured. See phase17-assessment/handover for ten deliverables and next
+significant questions. No new manuscript or companion changes.
