@@ -1,11 +1,10 @@
-\section{Models, observations and coordination}
+\section{Models, observations and coordination}\label{sec:01-introduction-1}
 A coordinator can make the right decision without identifying a whole utility
 table; identifying a relabeling need not reveal enough to optimize a task.
 Similarly, a symmetric mixed equilibrium can exist while an efficient
 realization requires a coordination resource. We examine these distinctions
 in finite models with explicit timing, information and receipts.
 
-This is not an introduction of game theory to artificial intelligence.
 Other-play and label-free coordination already investigate symmetry and
 independently constructed policies \citep{hu2020,treutlein2021}. Neural
 solvers and equivariant approximators directly study equilibrium selection
@@ -15,13 +14,11 @@ the classical existence of invariant mixed equilibria. The contribution
 assessed here is therefore a set of precise model comparisons, with novelty
 unresolved, rather than a new general symmetry or equilibrium theory.
 
-Our companion Game Symmetry project owns typed game automorphisms and lifting
-classification; Game Fairness owns utility invariance, assignment preferences
-and observational identification. Their exact source commits and theorem
-identifiers are pinned in the repository. In particular, we use its minimal
-symmetry-identification criterion and observer-quotient coherence result as
-prior dependencies rather than reprove or rename them. The local feasibility
-study is preserved as frozen, hash-verified imports.
+The mathematical comparisons concern finite coordination models with explicit
+information and implementation resources. The action-orbit computation results
+use typed game automorphisms; the utility comparisons retain a specified common
+receipt scale. Full structural classification and general assignment fairness
+are separate questions and are not prerequisites for the results here.
 
 All initial games and state sets are finite. A typed relabeling moves players
 and bijects their action sets; products act right to left. Exact maps preserve
@@ -31,3 +28,13 @@ sums below use explicitly calibrated receipts. For software agents such
 objectives are design specifications, not independently established welfare
 interests. We distinguish pure equilibria, independent mixed profiles,
 lotteries over equilibria, and private recommendations.
+
+Sections~\ref{sec:02-information-1}--\ref{sec:05-state-1} give the allocation,
+equilibrium-selection, private-cost and state models. The main refinements are
+the guaranteed-success screening bound
+(Proposition~\ref{result:07-phase11-1}), the sharp trusted-query frontier
+(Proposition~\ref{result:07-phase11-2}), and the explicitly tabulated local-factor
+reduction (Proposition~\ref{result:07-phase11-3}). The representation boundary
+and implementation costs explain why these conclusions require different
+resources. Each result retains its finite model and stated assumptions; no
+claim about general-purpose language-model behaviour follows.

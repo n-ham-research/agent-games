@@ -1,4 +1,4 @@
-\section{Private costs and an exact mediation gap}
+\section{Private costs and an exact mediation gap}\label{sec:04-bayesian-1}
 Two agents independently draw private costs $\theta_i\in\{1/2,3/2\}$ with equal
 probabilities. Each observes its own cost before choosing whether to volunteer,
 $a_i\in\{0,1\}$, simultaneously. Their common prior and utility model are known:
@@ -11,7 +11,7 @@ The environment is exchange-symmetric ex ante; a mixed-cost realized game is
 not symmetric under bare player exchange. Interim beliefs follow the specified
 prior, rather than an assumed complete-information theorem.
 
-\begin{theorem}[Private information and architecture; AG-E3]
+\begin{theorem}[Private information and architecture]\label{result:04-bayesian-1}
 The unique symmetric behavioral Bayesian Nash equilibrium volunteers at low
 cost only, with welfare $5/2$. Among all possibly distinct local policies with
 public randomness independent of types and independent private seeds, welfare
@@ -31,16 +31,21 @@ welfare $5/2$.
 Conditional on a public seed, welfare is multilinear in the four local
 behavioral probabilities, so a maximum occurs at deterministic policies.
 With $N,L,H,A$ denoting never, low only, high only and always volunteering,
-all possibilities have welfare matrix
-\[
-\begin{array}{c|rrrr}
- &N&L&H&A\\\hline
+all possibilities have the welfare values in Table~\ref{tab:volunteer-welfare}.
+\begin{table}[htbp]
+\centering
+\caption{Welfare by deterministic local volunteering policies.}\label{tab:volunteer-welfare}
+\begin{tabular}{crrrr}
+\toprule
+ &N&L&H&A\\
+\midrule
 N&0&7/4&5/4&3\\
 L&7/4&5/2&2&11/4\\
 H&5/4&2&3/2&9/4\\
-A&3&11/4&9/4&2
-\end{array}
-\]
+A&3&11/4&9/4&2\\
+\bottomrule
+\end{tabular}
+\end{table}
 The largest entry is $3$. Public randomization cannot improve the bound.
 A designated volunteer attains it and is a Bayesian equilibrium; a public
 fair lottery between the two designated equilibria makes the selection law

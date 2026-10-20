@@ -69,3 +69,18 @@ closure and direct protected optimization. Reciprocal internal proof reviews
 passed; no natural positive ordinary-CE payoff separation or approximate EF
 theorem obtained. Actual scope/source limits: AG-P19-REVIEW.md and
 ../research/phase19-assessment.md. Foundation/companions unchanged.
+
+
+## Second-priority publication polish — 20 October 2026
+
+OpenAI Codex applied the symmetry paper's restrained LaTeX/link conventions,
+revised the title and roadmap, replaced phase-workflow acknowledgements, added
+semantic references and captioned the exact welfare table. Existing hypotheses
+and source-version limitations were retained. A fresh sequential mathematical
+review found a missing explicit 0<p<1 assumption in the binary query exposition;
+this was repaired with degenerate-prior endpoints stated separately and checked
+by the reviewer. Later research results were not promoted. Separate internal
+publication review follows mathematical review. These are shared-context AI
+reviews, not blinded external review or author sign-off. See publication/ for
+the maintained readiness, review and verification records. No submission,
+visibility change, external contact or empirical LLM study occurred.

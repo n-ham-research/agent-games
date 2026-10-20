@@ -1,0 +1,39 @@
+{
+  "pdf": "paper/build/main.pdf",
+  "pages": 11,
+  "metadata": {
+    "/Producer": "pdfTeX-1.40.28",
+    "/Author": "Nicholas Ham",
+    "/Title": "Information, Incentives and Symmetric Equilibria in Finite Coordination Games",
+    "/Subject": "Finite coordination, information and verification",
+    "/Creator": "LaTeX with hyperref",
+    "/Keywords": "coordination, equilibrium, verification, symmetry",
+    "/CreationDate": "D:20261020181509+11'00'",
+    "/ModDate": "D:20261020181509+11'00'",
+    "/Trapped": "/False",
+    "/PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) kpathsea version 6.4.1"
+  },
+  "annotations": 46,
+  "internal_links": 25,
+  "distinct_external_uris": [
+    "https://arxiv.org/abs/1109.6064",
+    "https://arxiv.org/abs/2210.09257",
+    "https://arxiv.org/abs/2212.01524",
+    "https://arxiv.org/abs/2301.11481v2",
+    "https://doi.org/10.1006/game.1996.0044",
+    "https://doi.org/10.1016/j.tcs.2010.11.002",
+    "https://doi.org/10.1086/729580",
+    "https://doi.org/10.1145/1379759.1379762",
+    "https://doi.org/10.1609/aaai.v39i13.33549",
+    "https://doi.org/10.3982/TE1808",
+    "https://emanueltewolde.com/files/symmetries.pdf",
+    "https://paperzz.com/doc/8144640/algorithms-in-real-algebraic-geometry",
+    "https://proceedings.mlr.press/v119/elmachtoub20a.html",
+    "https://proceedings.mlr.press/v119/hu20a.html",
+    "https://proceedings.mlr.press/v139/treutlein21a.html",
+    "https://strategicreasoning.org/wp-content/uploads/2016/12/notes-symetric.pdf"
+  ],
+  "latex_labels_with_valid_page_destinations": 19,
+  "named_destinations": 50,
+  "status": "pass; external URI targets checked, HTTP availability recorded separately"
+}

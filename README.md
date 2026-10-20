@@ -3,10 +3,12 @@
 Mathematical research by **Nicholas Ham** on information-constrained coordination,
 incentives and equilibrium selection in finite multi-agent systems.
 
-Working paper: **Symmetry, Incentives and Equilibrium Selection in Multi-Agent
-Systems**. The Phase 11 draft is 11 pages. This is a research draft, with verified finite-model
-arguments and provisional originality, not a submitted or externally reviewed
-publication. Actual LLM behavior is not assumed to satisfy these ideal models.
+Working paper: **Information, Incentives and Symmetric Equilibria in Finite
+Coordination Games**. This 11-page finite-model manuscript is second priority,
+after the symmetry-first paper. See [publication readiness](publication/READINESS.md)
+for review records, technical checks and the outstanding novelty/scope decision.
+It is not submitted or externally reviewed. Later research notes remain separate;
+actual LLM behavior is not assumed to satisfy these ideal models.
 
 ## Start here
 

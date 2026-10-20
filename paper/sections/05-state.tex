@@ -1,7 +1,7 @@
-\section{Persistent state and priced checkpoint tracking}
-The canonical Game Fairness observer-quotient theorem characterizes observable
-path independence by splitting after invisible transformations are quotiented
-out. We use it as a dependency and ask a different operational question.
+\section{Persistent state and priced checkpoint tracking}\label{sec:05-state-1}
+Observable path independence after invisible transformations are quotiented
+out is an algebraic condition. The following operational model instead fixes
+actuators, targets and prices to distinguish splitting from tracking cost.
 
 A two-role carrier has state $x\in\mathbb Z/4$, role parity $p=x\bmod2$ and
 calibration bit $b=\lfloor x/2\rfloor$. The task succeeds iff $b=0$, so its
@@ -12,7 +12,7 @@ actuator adds $1$; after each actuation a controller may add $2$ at cost $c>0$.
 One primary actuation per request is mandatory, and extra primary operations
 are unavailable. These targets and prices are physical model inputs.
 
-\begin{proposition}[AG-C1/C2]
+\begin{proposition}[Priced checkpoint tracking]\label{result:05-state-1}
 The minimum correction cost for success at every checkpoint is
 $c\lfloor T/2\rfloor$. If both primary directions $+1,-1$ are freely
 available and the controller can observe or remember current parity, every
